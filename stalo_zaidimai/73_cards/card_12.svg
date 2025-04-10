@@ -1,0 +1,107 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="800" height="800" version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+  <desc>Card
+  </desc>
+
+  <!-- Show outline of canvas using 'rect' element -->
+  <rect x="0" y="0" width="800" height="800"
+        fill="white" stroke="black" stroke-width="4pt" />
+
+   
+    <image
+       y="50"
+       x="60.739769978"
+       id="image28"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Machovka_panda.png"
+       height="200"
+       width="178.520460044"
+       transform="rotate( 306 , 150.0, 150)" />
+
+
+    <image
+       y="50"
+       x="358.726996678"
+       id="image44"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/portablejim_Green_snake_with_red_belly.png"
+       height="200"
+       width="82.5460066439"
+       transform="rotate( 173 , 400.0, 150)" />
+
+
+    <image
+       y="68.7532414076"
+       x="550"
+       id="image20"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Chestnut.png"
+       height="162.493517185"
+       width="200"
+       transform="rotate( 102 , 650, 150.0)" />
+
+
+    <image
+       y="302.180321995"
+       x="50"
+       id="image52"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/lemmling_Cartoon_owl.png"
+       height="195.639356011"
+       width="200"
+       transform="rotate( 76 , 150, 400.0)" />
+
+
+    <image
+       y="300"
+       x="328.571428571"
+       id="image12"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Bunny.png"
+       height="200"
+       width="142.857142857"
+       transform="rotate( 43 , 400.0, 400)" />
+
+
+    <image
+       y="300"
+       x="563.203460145"
+       id="image1"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/clock.png"
+       height="200"
+       width="173.59307971"
+       transform="rotate( 301 , 650.0, 400)" />
+
+
+    <image
+       y="599.732101529"
+       x="50"
+       id="image68"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/dragon02.png"
+       height="100.535796941"
+       width="200"
+       transform="rotate( 81 , 150, 650.0)" />
+
+
+    <image
+       y="599.096097341"
+       x="300"
+       id="image60"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/StudioFibonacci_Cartoon_Bat.png"
+       height="101.807805319"
+       width="200"
+       transform="rotate( 283 , 400, 650.0)" />
+
+
+    <image
+       y="550"
+       x="560.922257195"
+       id="image36"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/ryanlerch_ragno_the_spider_with_a_simple_web.png"
+       height="200"
+       width="178.155485611"
+       transform="rotate( 275 , 650.0, 650)" />
+
+   
+
+</svg>

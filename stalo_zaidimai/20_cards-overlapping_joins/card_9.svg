@@ -1,0 +1,87 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="800" height="800" version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+  <desc>Card
+  </desc>
+
+   
+    <image
+       y="118.360850843"
+       x="50"
+       id="image4"
+       xlink:href="file:///home/nijole/Downloads/spot-the-object-cards/png/old_key.png"
+       height="63.2782983144"
+       width="200"
+       transform="rotate( 93 , 150, 150.0)" />
+
+
+    <image
+       y="50"
+       x="338.253982507"
+       id="image3"
+       xlink:href="file:///home/nijole/Downloads/spot-the-object-cards/png/johnny_automatic_an_anchor.png"
+       height="200"
+       width="123.492034985"
+       transform="rotate( 48 , 400.0, 150)" />
+
+
+    <image
+       y="50"
+       x="578.571428571"
+       id="image12"
+       xlink:href="file:///home/nijole/Downloads/spot-the-object-cards/png/Bunny.png"
+       height="200"
+       width="142.857142857"
+       transform="rotate( 251 , 650.0, 150)" />
+
+
+    <image
+       y="300.0"
+       x="50"
+       id="image22"
+       xlink:href="file:///home/nijole/Downloads/spot-the-object-cards/png/cards-applications-games.png"
+       height="200.0"
+       width="200"
+       transform="rotate( 84 , 150, 400.0)" />
+
+
+    <image
+       y="300"
+       x="329.292929041"
+       id="image9"
+       xlink:href="file:///home/nijole/Downloads/spot-the-object-cards/png/PeterM_Flower.png"
+       height="200"
+       width="141.414141918"
+       transform="rotate( 310 , 400.0, 400)" />
+
+
+    <image
+       y="350.478289998"
+       x="550"
+       id="image15"
+       xlink:href="file:///home/nijole/Downloads/spot-the-object-cards/png/Chrisdesign_Beetle_(car).png"
+       height="99.0434200033"
+       width="200"
+       transform="rotate( 270 , 650, 400.0)" />
+
+
+    <image
+       y="550"
+       x="328.690478297"
+       id="image8"
+       xlink:href="file:///home/nijole/Downloads/spot-the-object-cards/png/jean_victor_balin_snowman.png"
+       height="200"
+       width="142.619043406"
+       transform="rotate( 351 , 400.0, 650)" />
+
+   
+   
+  <!-- Show outline of canvas using 'rect' element -->
+   <!-- <rect x=".01cm" y=".01cm" width="4.98cm" height="3.98cm"
+        fill="none" stroke="blue" stroke-width=".02cm" />-->
+
+</svg>

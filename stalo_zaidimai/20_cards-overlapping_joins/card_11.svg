@@ -1,0 +1,67 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="800" height="800" version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+  <desc>Card
+  </desc>
+
+   
+    <image
+       y="118.360850843"
+       x="50"
+       id="image4"
+       xlink:href="file:///home/nijole/Downloads/spot-the-object-cards/png/old_key.png"
+       height="63.2782983144"
+       width="200"
+       transform="rotate( 145 , 150, 150.0)" />
+
+
+    <image
+       y="163.278298314"
+       x="63.2034601451"
+       id="image1"
+       xlink:href="file:///home/nijole/Downloads/spot-the-object-cards/png/clock.png"
+       height="200"
+       width="173.59307971"
+       transform="rotate( 60 , 150.0, 263.278298314)" />
+
+
+    <image
+       y="163.278298314"
+       x="311.254233895"
+       id="image26"
+       xlink:href="file:///home/nijole/Downloads/spot-the-object-cards/png/johnny_automatic_magnet.png"
+       height="200"
+       width="177.491532211"
+       transform="rotate( 40 , 400.0, 263.278298314)" />
+
+
+    <image
+       y="413.278298314"
+       x="53.8342219209"
+       id="image7"
+       xlink:href="file:///home/nijole/Downloads/spot-the-object-cards/png/Ghost_002.png"
+       height="200"
+       width="192.331556158"
+       transform="rotate( 20 , 150.0, 513.278298314)" />
+
+
+    <image
+       y="413.278298314"
+       x="312.964207003"
+       id="image5"
+       xlink:href="file:///home/nijole/Downloads/spot-the-object-cards/png/CAT2.png"
+       height="200"
+       width="174.071585994"
+       transform="rotate( 61 , 400.0, 513.278298314)" />
+
+   
+   
+  <!-- Show outline of canvas using 'rect' element -->
+   <!-- <rect x=".01cm" y=".01cm" width="4.98cm" height="3.98cm"
+        fill="none" stroke="blue" stroke-width=".02cm" />-->
+
+</svg>

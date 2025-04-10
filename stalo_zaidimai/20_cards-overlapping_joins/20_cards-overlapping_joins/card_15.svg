@@ -1,0 +1,67 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="800" height="800" version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+  <desc>Card
+  </desc>
+
+  <!-- Show outline of canvas using 'rect' element -->
+  <rect x="0" y="0" width="800" height="800"
+        fill="white" stroke="black" stroke-width="4pt" />
+
+   
+    <image
+       y="76.1713727583"
+       x="300"
+       id="image2"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/rygle_Aussie_Earth_Colour_Outline.png"
+       height="147.657254483"
+       width="200"
+       transform="rotate( 284 , 400, 150.0)" />
+
+
+    <image
+       y="50"
+       x="581.121509876"
+       id="image6"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Machovka_Guitar.png"
+       height="200"
+       width="137.756980249"
+       transform="rotate( 247 , 650.0, 150)" />
+
+
+    <image
+       y="300"
+       x="78.6904782969"
+       id="image8"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/jean_victor_balin_snowman.png"
+       height="200"
+       width="142.619043406"
+       transform="rotate( 52 , 150.0, 400)" />
+
+
+    <image
+       y="368.360850843"
+       x="300"
+       id="image4"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/old_key.png"
+       height="63.2782983144"
+       width="200"
+       transform="rotate( 201 , 400, 400.0)" />
+
+
+    <image
+       y="560.86102373"
+       x="300"
+       id="image29"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/CartoonMooseRemix.png"
+       height="178.27795254"
+       width="200"
+       transform="rotate( 74 , 400, 650.0)" />
+
+   
+
+</svg>

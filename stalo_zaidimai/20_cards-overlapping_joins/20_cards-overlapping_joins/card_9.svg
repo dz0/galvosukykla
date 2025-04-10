@@ -1,0 +1,87 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="800" height="800" version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+  <desc>Card
+  </desc>
+
+  <!-- Show outline of canvas using 'rect' element -->
+  <rect x="0" y="0" width="800" height="800"
+        fill="white" stroke="black" stroke-width="4pt" />
+
+   
+    <image
+       y="50"
+       x="328.571428571"
+       id="image12"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Bunny.png"
+       height="200"
+       width="142.857142857"
+       transform="rotate( 231 , 400.0, 150)" />
+
+
+    <image
+       y="118.360850843"
+       x="550"
+       id="image4"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/old_key.png"
+       height="63.2782983144"
+       width="200"
+       transform="rotate( 184 , 650, 150.0)" />
+
+
+    <image
+       y="300"
+       x="88.2539825075"
+       id="image3"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/johnny_automatic_an_anchor.png"
+       height="200"
+       width="123.492034985"
+       transform="rotate( 159 , 150.0, 400)" />
+
+
+    <image
+       y="300.0"
+       x="550"
+       id="image22"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/cards-applications-games.png"
+       height="200.0"
+       width="200"
+       transform="rotate( 338 , 650, 400.0)" />
+
+
+    <image
+       y="600.478289998"
+       x="50"
+       id="image15"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Chrisdesign_Beetle_(car).png"
+       height="99.0434200033"
+       width="200"
+       transform="rotate( 136 , 150, 650.0)" />
+
+
+    <image
+       y="550"
+       x="329.292929041"
+       id="image9"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/PeterM_Flower.png"
+       height="200"
+       width="141.414141918"
+       transform="rotate( 345 , 400.0, 650)" />
+
+
+    <image
+       y="550"
+       x="578.690478297"
+       id="image8"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/jean_victor_balin_snowman.png"
+       height="200"
+       width="142.619043406"
+       transform="rotate( 136 , 650.0, 650)" />
+
+   
+
+</svg>

@@ -1,0 +1,87 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="800" height="800" version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+  <desc>Card
+  </desc>
+
+   
+    <image
+       y="50"
+       x="303.834221921"
+       id="image7"
+       xlink:href="file:///home/nijole/Downloads/spot-the-object-cards/png/Ghost_002.png"
+       height="200"
+       width="192.331556158"
+       transform="rotate( 252 , 400.0, 150)" />
+
+
+    <image
+       y="50"
+       x="562.964207003"
+       id="image5"
+       xlink:href="file:///home/nijole/Downloads/spot-the-object-cards/png/CAT2.png"
+       height="200"
+       width="174.071585994"
+       transform="rotate( 8 , 650.0, 150)" />
+
+
+    <image
+       y="350.478289998"
+       x="50"
+       id="image15"
+       xlink:href="file:///home/nijole/Downloads/spot-the-object-cards/png/Chrisdesign_Beetle_(car).png"
+       height="99.0434200033"
+       width="200"
+       transform="rotate( 102 , 150, 400.0)" />
+
+
+    <image
+       y="326.171372758"
+       x="300"
+       id="image2"
+       xlink:href="file:///home/nijole/Downloads/spot-the-object-cards/png/rygle_Aussie_Earth_Colour_Outline.png"
+       height="147.657254483"
+       width="200"
+       transform="rotate( 327 , 400, 400.0)" />
+
+
+    <image
+       y="336.873538919"
+       x="550"
+       id="image14"
+       xlink:href="file:///home/nijole/Downloads/spot-the-object-cards/png/lescinqailes_bicycle.png"
+       height="126.252922162"
+       width="200"
+       transform="rotate( 289 , 650, 400.0)" />
+
+
+    <image
+       y="601.157194125"
+       x="50"
+       id="image0"
+       xlink:href="file:///home/nijole/Downloads/spot-the-object-cards/png/cartoon_bone.png"
+       height="97.6856117503"
+       width="200"
+       transform="rotate( 341 , 150, 650.0)" />
+
+
+    <image
+       y="561.836731429"
+       x="550"
+       id="image13"
+       xlink:href="file:///home/nijole/Downloads/spot-the-object-cards/png/ryanlerch_sunglasses_outline.png"
+       height="176.326537143"
+       width="200"
+       transform="rotate( 93 , 650, 650.0)" />
+
+   
+   
+  <!-- Show outline of canvas using 'rect' element -->
+   <!-- <rect x=".01cm" y=".01cm" width="4.98cm" height="3.98cm"
+        fill="none" stroke="blue" stroke-width=".02cm" />-->
+
+</svg>

@@ -1,0 +1,107 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="800" height="800" version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+  <desc>Card
+  </desc>
+
+  <!-- Show outline of canvas using 'rect' element -->
+  <rect x="0" y="0" width="800" height="800"
+        fill="white" stroke="black" stroke-width="4pt" />
+
+   
+    <image
+       y="50"
+       x="62.964207003"
+       id="image5"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/CAT2.png"
+       height="200"
+       width="174.071585994"
+       transform="rotate( 151 , 150.0, 150)" />
+
+
+    <image
+       y="100.478289998"
+       x="300"
+       id="image15"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Chrisdesign_Beetle_(car).png"
+       height="99.0434200033"
+       width="200"
+       transform="rotate( 219 , 400, 150.0)" />
+
+
+    <image
+       y="68.7532414076"
+       x="550"
+       id="image20"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Chestnut.png"
+       height="162.493517185"
+       width="200"
+       transform="rotate( 137 , 650, 150.0)" />
+
+
+    <image
+       y="300"
+       x="79.7386749986"
+       id="image33"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Machovka_strawberry.png"
+       height="200"
+       width="140.522650003"
+       transform="rotate( 175 , 150.0, 400)" />
+
+
+    <image
+       y="300"
+       x="348.496638408"
+       id="image69"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/GreekSoldier.png"
+       height="200"
+       width="103.006723185"
+       transform="rotate( 0 , 400.0, 400)" />
+
+
+    <image
+       y="300"
+       x="561.254233895"
+       id="image26"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/johnny_automatic_magnet.png"
+       height="200"
+       width="177.491532211"
+       transform="rotate( 201 , 650.0, 400)" />
+
+
+    <image
+       y="606.500964831"
+       x="50"
+       id="image43"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/mekonee_29_vegetables_set_8.png"
+       height="86.9980703386"
+       width="200"
+       transform="rotate( 334 , 150, 650.0)" />
+
+
+    <image
+       y="550"
+       x="325.233855447"
+       id="image54"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/rg1024_soft_trees_2.png"
+       height="200"
+       width="149.532289105"
+       transform="rotate( 154 , 400.0, 650)" />
+
+
+    <image
+       y="550"
+       x="620.463046631"
+       id="image64"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/1272138572.png"
+       height="200"
+       width="59.0739067381"
+       transform="rotate( 259 , 650.0, 650)" />
+
+   
+
+</svg>

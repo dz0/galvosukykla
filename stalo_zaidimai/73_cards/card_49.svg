@@ -1,0 +1,107 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="800" height="800" version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+  <desc>Card
+  </desc>
+
+  <!-- Show outline of canvas using 'rect' element -->
+  <rect x="0" y="0" width="800" height="800"
+        fill="white" stroke="black" stroke-width="4pt" />
+
+   
+    <image
+       y="55.7226136079"
+       x="50"
+       id="image40"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/kattekrab_plane_tree_autumn_leaf.png"
+       height="188.554772784"
+       width="200"
+       transform="rotate( 174 , 150, 150.0)" />
+
+
+    <image
+       y="81.0512387702"
+       x="300"
+       id="image31"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Jarno_Cessna.png"
+       height="137.89752246"
+       width="200"
+       transform="rotate( 25 , 400, 150.0)" />
+
+
+    <image
+       y="50"
+       x="581.121509876"
+       id="image6"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Machovka_Guitar.png"
+       height="200"
+       width="137.756980249"
+       transform="rotate( 236 , 650.0, 150)" />
+
+
+    <image
+       y="300"
+       x="126.082983387"
+       id="image42"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/mekonee_29_vegetables_set_4.png"
+       height="200"
+       width="47.8340332255"
+       transform="rotate( 327 , 150.0, 400)" />
+
+
+    <image
+       y="300"
+       x="329.292929041"
+       id="image9"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/PeterM_Flower.png"
+       height="200"
+       width="141.414141918"
+       transform="rotate( 27 , 400.0, 400)" />
+
+
+    <image
+       y="300.0"
+       x="550"
+       id="image22"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/cards-applications-games.png"
+       height="200.0"
+       width="200"
+       transform="rotate( 30 , 650, 400.0)" />
+
+
+    <image
+       y="599.096097341"
+       x="50"
+       id="image60"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/StudioFibonacci_Cartoon_Bat.png"
+       height="101.807805319"
+       width="200"
+       transform="rotate( 8 , 150, 650.0)" />
+
+
+    <image
+       y="550"
+       x="348.496638408"
+       id="image69"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/GreekSoldier.png"
+       height="200"
+       width="103.006723185"
+       transform="rotate( 313 , 400.0, 650)" />
+
+
+    <image
+       y="579.292932256"
+       x="550"
+       id="image51"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/koconmus_Soldek.png"
+       height="141.414135487"
+       width="200"
+       transform="rotate( 36 , 650, 650.0)" />
+
+   
+
+</svg>

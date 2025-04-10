@@ -1,0 +1,107 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="800" height="800" version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+  <desc>Card
+  </desc>
+
+  <!-- Show outline of canvas using 'rect' element -->
+  <rect x="0" y="0" width="800" height="800"
+        fill="white" stroke="black" stroke-width="4pt" />
+
+   
+    <image
+       y="73.3843960931"
+       x="50"
+       id="image41"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Machovka_Shoes.png"
+       height="153.231207814"
+       width="200"
+       transform="rotate( 4 , 150, 150.0)" />
+
+
+    <image
+       y="50"
+       x="329.292929291"
+       id="image57"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/zeimusu_Watermelon.png"
+       height="200"
+       width="141.414141418"
+       transform="rotate( 209 , 400.0, 150)" />
+
+
+    <image
+       y="50"
+       x="579.738674999"
+       id="image33"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Machovka_strawberry.png"
+       height="200"
+       width="140.522650003"
+       transform="rotate( 286 , 650.0, 150)" />
+
+
+    <image
+       y="300"
+       x="69.6866107177"
+       id="image49"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/moon-liftarn_Heraldic_crescent.png"
+       height="200"
+       width="160.626778565"
+       transform="rotate( 243 , 150.0, 400)" />
+
+
+    <image
+       y="300"
+       x="329.292929041"
+       id="image9"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/PeterM_Flower.png"
+       height="200"
+       width="141.414141918"
+       transform="rotate( 293 , 400.0, 400)" />
+
+
+    <image
+       y="333.333333333"
+       x="550"
+       id="image17"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/whitechess.png"
+       height="133.333333333"
+       width="200"
+       transform="rotate( 267 , 650, 400.0)" />
+
+
+    <image
+       y="550"
+       x="63.2034601451"
+       id="image1"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/clock.png"
+       height="200"
+       width="173.59307971"
+       transform="rotate( 238 , 150.0, 650)" />
+
+
+    <image
+       y="555.246770497"
+       x="300"
+       id="image25"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/jesusfreak210_Penguin.png"
+       height="189.506459007"
+       width="200"
+       transform="rotate( 77 , 400, 650.0)" />
+
+
+    <image
+       y="587.216251703"
+       x="550"
+       id="image65"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/1291884712.png"
+       height="125.567496593"
+       width="200"
+       transform="rotate( 10 , 650, 650.0)" />
+
+   
+
+</svg>

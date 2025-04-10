@@ -1,0 +1,107 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="800" height="800" version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+  <desc>Card
+  </desc>
+
+  <!-- Show outline of canvas using 'rect' element -->
+  <rect x="0" y="0" width="800" height="800"
+        fill="white" stroke="black" stroke-width="4pt" />
+
+   
+    <image
+       y="84.4679957188"
+       x="50"
+       id="image16"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/johnny_automatic_butterfly_3.png"
+       height="131.064008562"
+       width="200"
+       transform="rotate( 341 , 150, 150.0)" />
+
+
+    <image
+       y="77.2470227218"
+       x="300"
+       id="image62"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/treasure_map.png"
+       height="145.505954556"
+       width="200"
+       transform="rotate( 309 , 400, 150.0)" />
+
+
+    <image
+       y="50"
+       x="598.496638408"
+       id="image69"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/GreekSoldier.png"
+       height="200"
+       width="103.006723185"
+       transform="rotate( 229 , 650.0, 150)" />
+
+
+    <image
+       y="300"
+       x="53.8342219209"
+       id="image7"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Ghost_002.png"
+       height="200"
+       width="192.331556158"
+       transform="rotate( 323 , 150.0, 400)" />
+
+
+    <image
+       y="307.023611577"
+       x="300"
+       id="image50"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/zeimusu_Lion.png"
+       height="185.952776846"
+       width="200"
+       transform="rotate( 246 , 400, 400.0)" />
+
+
+    <image
+       y="300"
+       x="560.922257195"
+       id="image36"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/ryanlerch_ragno_the_spider_with_a_simple_web.png"
+       height="200"
+       width="178.155485611"
+       transform="rotate( 357 , 650.0, 400)" />
+
+
+    <image
+       y="555.246770497"
+       x="50"
+       id="image25"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/jesusfreak210_Penguin.png"
+       height="189.506459007"
+       width="200"
+       transform="rotate( 102 , 150, 650.0)" />
+
+
+    <image
+       y="550"
+       x="300.383054615"
+       id="image19"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/christmas_bells.png"
+       height="200"
+       width="199.23389077"
+       transform="rotate( 94 , 400.0, 650)" />
+
+
+    <image
+       y="603.893412372"
+       x="550"
+       id="image47"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Machovka_pikeperch.png"
+       height="92.213175256"
+       width="200"
+       transform="rotate( 14 , 650, 650.0)" />
+
+   
+
+</svg>

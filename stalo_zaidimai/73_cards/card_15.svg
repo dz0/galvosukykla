@@ -1,0 +1,107 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="800" height="800" version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+  <desc>Card
+  </desc>
+
+  <!-- Show outline of canvas using 'rect' element -->
+  <rect x="0" y="0" width="800" height="800"
+        fill="white" stroke="black" stroke-width="4pt" />
+
+   
+    <image
+       y="73.3337724325"
+       x="50"
+       id="image55"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/jondkoon_pigeon.png"
+       height="153.332455135"
+       width="200"
+       transform="rotate( 314 , 150, 150.0)" />
+
+
+    <image
+       y="50"
+       x="313.203460145"
+       id="image1"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/clock.png"
+       height="200"
+       width="173.59307971"
+       transform="rotate( 260 , 400.0, 150)" />
+
+
+    <image
+       y="109.160841305"
+       x="550"
+       id="image39"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/johnny_automatic_snail_2.png"
+       height="81.6783173902"
+       width="200"
+       transform="rotate( 106 , 650, 150.0)" />
+
+
+    <image
+       y="300.0"
+       x="50"
+       id="image71"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/liftarn_Adventurer_Hat.png"
+       height="200.0"
+       width="200"
+       transform="rotate( 54 , 150, 400.0)" />
+
+
+    <image
+       y="331.05123877"
+       x="300"
+       id="image31"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Jarno_Cessna.png"
+       height="137.89752246"
+       width="200"
+       transform="rotate( 357 , 400, 400.0)" />
+
+
+    <image
+       y="300"
+       x="563.027509551"
+       id="image63"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/StudioFibonacci_Cartoon_rhino.png"
+       height="200"
+       width="173.944980898"
+       transform="rotate( 208 , 650.0, 400)" />
+
+
+    <image
+       y="603.893412372"
+       x="50"
+       id="image47"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Machovka_pikeperch.png"
+       height="92.213175256"
+       width="200"
+       transform="rotate( 75 , 150, 650.0)" />
+
+
+    <image
+       y="600.478289998"
+       x="300"
+       id="image15"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Chrisdesign_Beetle_(car).png"
+       height="99.0434200033"
+       width="200"
+       transform="rotate( 301 , 400, 650.0)" />
+
+
+    <image
+       y="550.0"
+       x="550"
+       id="image23"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/COMPASS.png"
+       height="200.0"
+       width="200"
+       transform="rotate( 340 , 650, 650.0)" />
+
+   
+
+</svg>

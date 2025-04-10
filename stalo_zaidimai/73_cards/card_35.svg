@@ -1,0 +1,107 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="800" height="800" version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+  <desc>Card
+  </desc>
+
+  <!-- Show outline of canvas using 'rect' element -->
+  <rect x="0" y="0" width="800" height="800"
+        fill="white" stroke="black" stroke-width="4pt" />
+
+   
+    <image
+       y="50"
+       x="107.833705359"
+       id="image61"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/johnny_automatic_paint_brush.png"
+       height="200"
+       width="84.3325892812"
+       transform="rotate( 208 , 150.0, 150)" />
+
+
+    <image
+       y="50"
+       x="324.605456357"
+       id="image48"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/sfrias_Jirafa.png"
+       height="200"
+       width="150.789087286"
+       transform="rotate( 303 , 400.0, 150)" />
+
+
+    <image
+       y="118.360850843"
+       x="550"
+       id="image4"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/old_key.png"
+       height="63.2782983144"
+       width="200"
+       transform="rotate( 50 , 650, 150.0)" />
+
+
+    <image
+       y="300.0"
+       x="50"
+       id="image11"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/nicubunu_Soccer_ball.png"
+       height="200.0"
+       width="200"
+       transform="rotate( 121 , 150, 400.0)" />
+
+
+    <image
+       y="300"
+       x="311.254233895"
+       id="image26"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/johnny_automatic_magnet.png"
+       height="200"
+       width="177.491532211"
+       transform="rotate( 205 , 400.0, 400)" />
+
+
+    <image
+       y="323.333772432"
+       x="550"
+       id="image55"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/jondkoon_pigeon.png"
+       height="153.332455135"
+       width="200"
+       transform="rotate( 126 , 650, 400.0)" />
+
+
+    <image
+       y="550.0"
+       x="50"
+       id="image22"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/cards-applications-games.png"
+       height="200.0"
+       width="200"
+       transform="rotate( 344 , 150, 650.0)" />
+
+
+    <image
+       y="587.216251703"
+       x="300"
+       id="image65"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/1291884712.png"
+       height="125.567496593"
+       width="200"
+       transform="rotate( 217 , 400, 650.0)" />
+
+
+    <image
+       y="550"
+       x="560.922257195"
+       id="image36"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/ryanlerch_ragno_the_spider_with_a_simple_web.png"
+       height="200"
+       width="178.155485611"
+       transform="rotate( 282 , 650.0, 650)" />
+
+   
+
+</svg>

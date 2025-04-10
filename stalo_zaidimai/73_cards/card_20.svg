@@ -1,0 +1,107 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="800" height="800" version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+  <desc>Card
+  </desc>
+
+  <!-- Show outline of canvas using 'rect' element -->
+  <rect x="0" y="0" width="800" height="800"
+        fill="white" stroke="black" stroke-width="4pt" />
+
+   
+    <image
+       y="79.2929322564"
+       x="50"
+       id="image51"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/koconmus_Soldek.png"
+       height="141.414135487"
+       width="200"
+       transform="rotate( 348 , 150, 150.0)" />
+
+
+    <image
+       y="50"
+       x="357.833705359"
+       id="image61"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/johnny_automatic_paint_brush.png"
+       height="200"
+       width="84.3325892812"
+       transform="rotate( 55 , 400.0, 150)" />
+
+
+    <image
+       y="76.1713727583"
+       x="550"
+       id="image2"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/rygle_Aussie_Earth_Colour_Outline.png"
+       height="147.657254483"
+       width="200"
+       transform="rotate( 296 , 650, 150.0)" />
+
+
+    <image
+       y="325.0"
+       x="50"
+       id="image24"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/dog-pup1000.png"
+       height="150.0"
+       width="200"
+       transform="rotate( 108 , 150, 400.0)" />
+
+
+    <image
+       y="353.893412372"
+       x="300"
+       id="image47"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Machovka_pikeperch.png"
+       height="92.213175256"
+       width="200"
+       transform="rotate( 104 , 400, 400.0)" />
+
+
+    <image
+       y="300"
+       x="569.843227066"
+       id="image30"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Gerald_G_KU_taraxacum_officinale.png"
+       height="200"
+       width="160.313545868"
+       transform="rotate( 239 , 650.0, 400)" />
+
+
+    <image
+       y="558.582153611"
+       x="50"
+       id="image66"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Anonymous_table_tennis.png"
+       height="182.835692777"
+       width="200"
+       transform="rotate( 249 , 150, 650.0)" />
+
+
+    <image
+       y="550"
+       x="329.738674999"
+       id="image33"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Machovka_strawberry.png"
+       height="200"
+       width="140.522650003"
+       transform="rotate( 335 , 400.0, 650)" />
+
+
+    <image
+       y="550"
+       x="578.571428571"
+       id="image12"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Bunny.png"
+       height="200"
+       width="142.857142857"
+       transform="rotate( 251 , 650.0, 650)" />
+
+   
+
+</svg>

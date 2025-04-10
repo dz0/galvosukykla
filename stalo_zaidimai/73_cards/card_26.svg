@@ -1,0 +1,107 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="800" height="800" version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+  <desc>Card
+  </desc>
+
+  <!-- Show outline of canvas using 'rect' element -->
+  <rect x="0" y="0" width="800" height="800"
+        fill="white" stroke="black" stroke-width="4pt" />
+
+   
+    <image
+       y="50"
+       x="58.3144543864"
+       id="image21"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/apple-1307281670.png"
+       height="200"
+       width="183.371091227"
+       transform="rotate( 266 , 150.0, 150)" />
+
+
+    <image
+       y="50"
+       x="327.287877025"
+       id="image32"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Machovka_quarterfoil.png"
+       height="200"
+       width="145.424245951"
+       transform="rotate( 195 , 400.0, 150)" />
+
+
+    <image
+       y="50"
+       x="588.253982507"
+       id="image3"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/johnny_automatic_an_anchor.png"
+       height="200"
+       width="123.492034985"
+       transform="rotate( 235 , 650.0, 150)" />
+
+
+    <image
+       y="337.216251703"
+       x="50"
+       id="image65"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/1291884712.png"
+       height="125.567496593"
+       width="200"
+       transform="rotate( 204 , 150, 400.0)" />
+
+
+    <image
+       y="300"
+       x="325.233855447"
+       id="image54"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/rg1024_soft_trees_2.png"
+       height="200"
+       width="149.532289105"
+       transform="rotate( 96 , 400.0, 400)" />
+
+
+    <image
+       y="353.893412372"
+       x="550"
+       id="image47"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Machovka_pikeperch.png"
+       height="92.213175256"
+       width="200"
+       transform="rotate( 140 , 650, 400.0)" />
+
+
+    <image
+       y="559.132956332"
+       x="50"
+       id="image10"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/14thWarrior_Cartoon_Elephant.png"
+       height="181.734087337"
+       width="200"
+       transform="rotate( 15 , 150, 650.0)" />
+
+
+    <image
+       y="550"
+       x="312.5"
+       id="image35"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Peileppe_Photorealistic_Red_Apple.png"
+       height="200"
+       width="175.0"
+       transform="rotate( 314 , 400.0, 650)" />
+
+
+    <image
+       y="599.096097341"
+       x="550"
+       id="image60"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/StudioFibonacci_Cartoon_Bat.png"
+       height="101.807805319"
+       width="200"
+       transform="rotate( 187 , 650, 650.0)" />
+
+   
+
+</svg>

@@ -1,0 +1,67 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="800" height="800" version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+  <desc>Card
+  </desc>
+
+  <!-- Show outline of canvas using 'rect' element -->
+  <rect x="0" y="0" width="800" height="800"
+        fill="white" stroke="black" stroke-width="4pt" />
+
+   
+    <image
+       y="118.360850843"
+       x="50"
+       id="image4"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/old_key.png"
+       height="63.2782983144"
+       width="200"
+       transform="rotate( 147 , 150, 150.0)" />
+
+
+    <image
+       y="50"
+       x="331.121509876"
+       id="image6"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Machovka_Guitar.png"
+       height="200"
+       width="137.756980249"
+       transform="rotate( 64 , 400.0, 150)" />
+
+
+    <image
+       y="300"
+       x="62.964207003"
+       id="image5"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/CAT2.png"
+       height="200"
+       width="174.071585994"
+       transform="rotate( 210 , 150.0, 400)" />
+
+
+    <image
+       y="300"
+       x="588.253982507"
+       id="image3"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/johnny_automatic_an_anchor.png"
+       height="200"
+       width="123.492034985"
+       transform="rotate( 301 , 650.0, 400)" />
+
+
+    <image
+       y="555.246770497"
+       x="550"
+       id="image25"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/jesusfreak210_Penguin.png"
+       height="189.506459007"
+       width="200"
+       transform="rotate( 74 , 650, 650.0)" />
+
+   
+
+</svg>

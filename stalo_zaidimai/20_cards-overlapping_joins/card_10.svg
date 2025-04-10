@@ -1,0 +1,67 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="800" height="800" version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+  <desc>Card
+  </desc>
+
+   
+    <image
+       y="55.2467704967"
+       x="50"
+       id="image25"
+       xlink:href="file:///home/nijole/Downloads/spot-the-object-cards/png/jesusfreak210_Penguin.png"
+       height="189.506459007"
+       width="200"
+       transform="rotate( 339 , 150, 150.0)" />
+
+
+    <image
+       y="50"
+       x="338.253982507"
+       id="image3"
+       xlink:href="file:///home/nijole/Downloads/spot-the-object-cards/png/johnny_automatic_an_anchor.png"
+       height="200"
+       width="123.492034985"
+       transform="rotate( 231 , 400.0, 150)" />
+
+
+    <image
+       y="368.360850843"
+       x="50"
+       id="image4"
+       xlink:href="file:///home/nijole/Downloads/spot-the-object-cards/png/old_key.png"
+       height="63.2782983144"
+       width="200"
+       transform="rotate( 69 , 150, 400.0)" />
+
+
+    <image
+       y="300"
+       x="312.964207003"
+       id="image5"
+       xlink:href="file:///home/nijole/Downloads/spot-the-object-cards/png/CAT2.png"
+       height="200"
+       width="174.071585994"
+       transform="rotate( 273 , 400.0, 400)" />
+
+
+    <image
+       y="550"
+       x="81.1215098757"
+       id="image6"
+       xlink:href="file:///home/nijole/Downloads/spot-the-object-cards/png/Machovka_Guitar.png"
+       height="200"
+       width="137.756980249"
+       transform="rotate( 156 , 150.0, 650)" />
+
+   
+   
+  <!-- Show outline of canvas using 'rect' element -->
+   <!-- <rect x=".01cm" y=".01cm" width="4.98cm" height="3.98cm"
+        fill="none" stroke="blue" stroke-width=".02cm" />-->
+
+</svg>

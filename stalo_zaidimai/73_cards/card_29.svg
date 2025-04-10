@@ -1,0 +1,107 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="800" height="800" version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+  <desc>Card
+  </desc>
+
+  <!-- Show outline of canvas using 'rect' element -->
+  <rect x="0" y="0" width="800" height="800"
+        fill="white" stroke="black" stroke-width="4pt" />
+
+   
+    <image
+       y="61.8367314286"
+       x="50"
+       id="image13"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/ryanlerch_sunglasses_outline.png"
+       height="176.326537143"
+       width="200"
+       transform="rotate( 309 , 150, 150.0)" />
+
+
+    <image
+       y="50"
+       x="329.738674999"
+       id="image33"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Machovka_strawberry.png"
+       height="200"
+       width="140.522650003"
+       transform="rotate( 108 , 400.0, 150)" />
+
+
+    <image
+       y="104.457548057"
+       x="550"
+       id="image67"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/antontw_Kite.png"
+       height="91.084903886"
+       width="200"
+       transform="rotate( 287 , 650, 150.0)" />
+
+
+    <image
+       y="327.247022722"
+       x="50"
+       id="image62"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/treasure_map.png"
+       height="145.505954556"
+       width="200"
+       transform="rotate( 238 , 150, 400.0)" />
+
+
+    <image
+       y="300"
+       x="338.253982507"
+       id="image3"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/johnny_automatic_an_anchor.png"
+       height="200"
+       width="123.492034985"
+       transform="rotate( 337 , 400.0, 400)" />
+
+
+    <image
+       y="351.857769906"
+       x="550"
+       id="image18"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Gerald_G_Toothbrush_and_toothpaste.png"
+       height="96.2844601879"
+       width="200"
+       transform="rotate( 143 , 650, 400.0)" />
+
+
+    <image
+       y="552.180321995"
+       x="50"
+       id="image52"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/lemmling_Cartoon_owl.png"
+       height="195.639356011"
+       width="200"
+       transform="rotate( 237 , 150, 650.0)" />
+
+
+    <image
+       y="581.05123877"
+       x="300"
+       id="image31"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Jarno_Cessna.png"
+       height="137.89752246"
+       width="200"
+       transform="rotate( 84 , 400, 650.0)" />
+
+
+    <image
+       y="550"
+       x="574.605456357"
+       id="image48"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/sfrias_Jirafa.png"
+       height="200"
+       width="150.789087286"
+       transform="rotate( 243 , 650.0, 650)" />
+
+   
+
+</svg>

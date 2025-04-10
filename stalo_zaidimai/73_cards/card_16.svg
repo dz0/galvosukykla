@@ -1,0 +1,107 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="800" height="800" version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+  <desc>Card
+  </desc>
+
+  <!-- Show outline of canvas using 'rect' element -->
+  <rect x="0" y="0" width="800" height="800"
+        fill="white" stroke="black" stroke-width="4pt" />
+
+   
+    <image
+       y="50"
+       x="79.2929292929"
+       id="image56"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/PeterM_Ladybug.png"
+       height="200"
+       width="141.414141414"
+       transform="rotate( 74 , 150.0, 150)" />
+
+
+    <image
+       y="50"
+       x="352.914710217"
+       id="image72"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Machovka_Mobile_phone.png"
+       height="200"
+       width="94.1705795664"
+       transform="rotate( 227 , 400.0, 150)" />
+
+
+    <image
+       y="50"
+       x="563.203460145"
+       id="image1"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/clock.png"
+       height="200"
+       width="173.59307971"
+       transform="rotate( 219 , 650.0, 150)" />
+
+
+    <image
+       y="305.722613608"
+       x="50"
+       id="image40"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/kattekrab_plane_tree_autumn_leaf.png"
+       height="188.554772784"
+       width="200"
+       transform="rotate( 177 , 150, 400.0)" />
+
+
+    <image
+       y="300"
+       x="324.605456357"
+       id="image48"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/sfrias_Jirafa.png"
+       height="200"
+       width="150.789087286"
+       transform="rotate( 254 , 400.0, 400)" />
+
+
+    <image
+       y="334.467995719"
+       x="550"
+       id="image16"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/johnny_automatic_butterfly_3.png"
+       height="131.064008562"
+       width="200"
+       transform="rotate( 125 , 650, 400.0)" />
+
+
+    <image
+       y="550"
+       x="120.463046631"
+       id="image64"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/1272138572.png"
+       height="200"
+       width="59.0739067381"
+       transform="rotate( 146 , 150.0, 650)" />
+
+
+    <image
+       y="550"
+       x="327.287877025"
+       id="image32"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Machovka_quarterfoil.png"
+       height="200"
+       width="145.424245951"
+       transform="rotate( 153 , 400.0, 650)" />
+
+
+    <image
+       y="575.0"
+       x="550"
+       id="image24"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/dog-pup1000.png"
+       height="150.0"
+       width="200"
+       transform="rotate( 69 , 650, 650.0)" />
+
+   
+
+</svg>

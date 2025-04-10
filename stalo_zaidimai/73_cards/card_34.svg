@@ -1,0 +1,107 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="800" height="800" version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+  <desc>Card
+  </desc>
+
+  <!-- Show outline of canvas using 'rect' element -->
+  <rect x="0" y="0" width="800" height="800"
+        fill="white" stroke="black" stroke-width="4pt" />
+
+   
+    <image
+       y="52.1803219945"
+       x="50"
+       id="image52"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/lemmling_Cartoon_owl.png"
+       height="195.639356011"
+       width="200"
+       transform="rotate( 105 , 150, 150.0)" />
+
+
+    <image
+       y="50"
+       x="329.292929291"
+       id="image57"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/zeimusu_Watermelon.png"
+       height="200"
+       width="141.414141418"
+       transform="rotate( 14 , 400.0, 150)" />
+
+
+    <image
+       y="109.160841305"
+       x="550"
+       id="image39"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/johnny_automatic_snail_2.png"
+       height="81.6783173902"
+       width="200"
+       transform="rotate( 134 , 650, 150.0)" />
+
+
+    <image
+       y="368.360850843"
+       x="50"
+       id="image4"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/old_key.png"
+       height="63.2782983144"
+       width="200"
+       transform="rotate( 192 , 150, 400.0)" />
+
+
+    <image
+       y="325.0"
+       x="300"
+       id="image24"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/dog-pup1000.png"
+       height="150.0"
+       width="200"
+       transform="rotate( 50 , 400, 400.0)" />
+
+
+    <image
+       y="300"
+       x="598.496638408"
+       id="image69"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/GreekSoldier.png"
+       height="200"
+       width="103.006723185"
+       transform="rotate( 55 , 650.0, 400)" />
+
+
+    <image
+       y="550"
+       x="78.9259443619"
+       id="image27"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/lagartoflojo_Water_Drop.png"
+       height="200"
+       width="142.148111276"
+       transform="rotate( 324 , 150.0, 650)" />
+
+
+    <image
+       y="559.132956332"
+       x="300"
+       id="image10"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/14thWarrior_Cartoon_Elephant.png"
+       height="181.734087337"
+       width="200"
+       transform="rotate( 174 , 400, 650.0)" />
+
+
+    <image
+       y="568.100392964"
+       x="550"
+       id="image46"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/StudioFibonacci_Cartoon_monkey.png"
+       height="163.799214072"
+       width="200"
+       transform="rotate( 320 , 650, 650.0)" />
+
+   
+
+</svg>

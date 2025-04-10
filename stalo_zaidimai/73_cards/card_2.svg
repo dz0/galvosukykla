@@ -1,0 +1,107 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="800" height="800" version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+  <desc>Card
+  </desc>
+
+  <!-- Show outline of canvas using 'rect' element -->
+  <rect x="0" y="0" width="800" height="800"
+        fill="white" stroke="black" stroke-width="4pt" />
+
+   
+    <image
+       y="75.0"
+       x="50"
+       id="image24"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/dog-pup1000.png"
+       height="150.0"
+       width="200"
+       transform="rotate( 285 , 150, 150.0)" />
+
+
+    <image
+       y="83.3333333333"
+       x="300"
+       id="image17"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/whitechess.png"
+       height="133.333333333"
+       width="200"
+       transform="rotate( 43 , 400, 150.0)" />
+
+
+    <image
+       y="101.857769906"
+       x="550"
+       id="image18"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Gerald_G_Toothbrush_and_toothpaste.png"
+       height="96.2844601879"
+       width="200"
+       transform="rotate( 300 , 650, 150.0)" />
+
+
+    <image
+       y="318.753241408"
+       x="50"
+       id="image20"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Chestnut.png"
+       height="162.493517185"
+       width="200"
+       transform="rotate( 150 , 150, 400.0)" />
+
+
+    <image
+       y="300.0"
+       x="300"
+       id="image22"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/cards-applications-games.png"
+       height="200.0"
+       width="200"
+       transform="rotate( 263 , 400, 400.0)" />
+
+
+    <image
+       y="300"
+       x="558.314454386"
+       id="image21"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/apple-1307281670.png"
+       height="200"
+       width="183.371091227"
+       transform="rotate( 249 , 650.0, 400)" />
+
+
+    <image
+       y="550.0"
+       x="50"
+       id="image23"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/COMPASS.png"
+       height="200.0"
+       width="200"
+       transform="rotate( 260 , 150, 650.0)" />
+
+
+    <image
+       y="550"
+       x="300.383054615"
+       id="image19"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/christmas_bells.png"
+       height="200"
+       width="199.23389077"
+       transform="rotate( 296 , 400.0, 650)" />
+
+
+    <image
+       y="601.157194125"
+       x="550"
+       id="image0"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/cartoon_bone.png"
+       height="97.6856117503"
+       width="200"
+       transform="rotate( 354 , 650, 650.0)" />
+
+   
+
+</svg>

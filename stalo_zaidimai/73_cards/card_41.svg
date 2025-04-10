@@ -1,0 +1,107 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="800" height="800" version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+  <desc>Card
+  </desc>
+
+  <!-- Show outline of canvas using 'rect' element -->
+  <rect x="0" y="0" width="800" height="800"
+        fill="white" stroke="black" stroke-width="4pt" />
+
+   
+    <image
+       y="57.023611577"
+       x="50"
+       id="image50"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/zeimusu_Lion.png"
+       height="185.952776846"
+       width="200"
+       transform="rotate( 249 , 150, 150.0)" />
+
+
+    <image
+       y="50"
+       x="312.964207003"
+       id="image5"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/CAT2.png"
+       height="200"
+       width="174.071585994"
+       transform="rotate( 337 , 400.0, 150)" />
+
+
+    <image
+       y="50"
+       x="579.292929041"
+       id="image9"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/PeterM_Flower.png"
+       height="200"
+       width="141.414141918"
+       transform="rotate( 97 , 650.0, 150)" />
+
+
+    <image
+       y="300"
+       x="58.3144543864"
+       id="image21"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/apple-1307281670.png"
+       height="200"
+       width="183.371091227"
+       transform="rotate( 131 , 150.0, 400)" />
+
+
+    <image
+       y="349.732101529"
+       x="300"
+       id="image68"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/dragon02.png"
+       height="100.535796941"
+       width="200"
+       transform="rotate( 307 , 400, 400.0)" />
+
+
+    <image
+       y="359.160841305"
+       x="550"
+       id="image39"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/johnny_automatic_snail_2.png"
+       height="81.6783173902"
+       width="200"
+       transform="rotate( 213 , 650, 400.0)" />
+
+
+    <image
+       y="550"
+       x="74.6054563571"
+       id="image48"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/sfrias_Jirafa.png"
+       height="200"
+       width="150.789087286"
+       transform="rotate( 135 , 150.0, 650)" />
+
+
+    <image
+       y="550"
+       x="319.715881799"
+       id="image59"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Machovka_parrot.png"
+       height="200"
+       width="160.568236401"
+       transform="rotate( 138 , 400.0, 650)" />
+
+
+    <image
+       y="550"
+       x="569.843227066"
+       id="image30"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Gerald_G_KU_taraxacum_officinale.png"
+       height="200"
+       width="160.313545868"
+       transform="rotate( 202 , 650.0, 650)" />
+
+   
+
+</svg>

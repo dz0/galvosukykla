@@ -1,0 +1,107 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="800" height="800" version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+  <desc>Card
+  </desc>
+
+  <!-- Show outline of canvas using 'rect' element -->
+  <rect x="0" y="0" width="800" height="800"
+        fill="white" stroke="black" stroke-width="4pt" />
+
+   
+    <image
+       y="50.0"
+       x="50"
+       id="image22"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/cards-applications-games.png"
+       height="200.0"
+       width="200"
+       transform="rotate( 131 , 150, 150.0)" />
+
+
+    <image
+       y="103.893412372"
+       x="300"
+       id="image47"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Machovka_pikeperch.png"
+       height="92.213175256"
+       width="200"
+       transform="rotate( 340 , 400, 150.0)" />
+
+
+    <image
+       y="50.0"
+       x="550"
+       id="image34"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/nicubunu_Mushroom.png"
+       height="200.0"
+       width="200"
+       transform="rotate( 109 , 650, 150.0)" />
+
+
+    <image
+       y="300"
+       x="120.463046631"
+       id="image64"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/1272138572.png"
+       height="200"
+       width="59.0739067381"
+       transform="rotate( 94 , 150.0, 400)" />
+
+
+    <image
+       y="300"
+       x="328.690478297"
+       id="image8"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/jean_victor_balin_snowman.png"
+       height="200"
+       width="142.619043406"
+       transform="rotate( 343 , 400.0, 400)" />
+
+
+    <image
+       y="300"
+       x="578.925944362"
+       id="image27"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/lagartoflojo_Water_Drop.png"
+       height="200"
+       width="142.148111276"
+       transform="rotate( 345 , 650.0, 400)" />
+
+
+    <image
+       y="561.836731429"
+       x="50"
+       id="image13"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/ryanlerch_sunglasses_outline.png"
+       height="176.326537143"
+       width="200"
+       transform="rotate( 245 , 150, 650.0)" />
+
+
+    <image
+       y="599.732101529"
+       x="300"
+       id="image68"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/dragon02.png"
+       height="100.535796941"
+       width="200"
+       transform="rotate( 2 , 400, 650.0)" />
+
+
+    <image
+       y="550"
+       x="569.686610718"
+       id="image49"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/moon-liftarn_Heraldic_crescent.png"
+       height="200"
+       width="160.626778565"
+       transform="rotate( 94 , 650.0, 650)" />
+
+   
+
+</svg>

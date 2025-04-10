@@ -1,0 +1,67 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="800" height="800" version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+  <desc>Card
+  </desc>
+
+  <!-- Show outline of canvas using 'rect' element -->
+  <rect x="0" y="0" width="800" height="800"
+        fill="white" stroke="black" stroke-width="4pt" />
+
+   
+    <image
+       y="50"
+       x="81.1215098757"
+       id="image6"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Machovka_Guitar.png"
+       height="200"
+       width="137.756980249"
+       transform="rotate( 85 , 150.0, 150)" />
+
+
+    <image
+       y="351.157194125"
+       x="300"
+       id="image0"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/cartoon_bone.png"
+       height="97.6856117503"
+       width="200"
+       transform="rotate( 126 , 400, 400.0)" />
+
+
+    <image
+       y="300"
+       x="561.254233895"
+       id="image26"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/johnny_automatic_magnet.png"
+       height="200"
+       width="177.491532211"
+       transform="rotate( 183 , 650.0, 400)" />
+
+
+    <image
+       y="550"
+       x="79.292929041"
+       id="image9"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/PeterM_Flower.png"
+       height="200"
+       width="141.414141918"
+       transform="rotate( 46 , 150.0, 650)" />
+
+
+    <image
+       y="576.171372758"
+       x="550"
+       id="image2"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/rygle_Aussie_Earth_Colour_Outline.png"
+       height="147.657254483"
+       width="200"
+       transform="rotate( 138 , 650, 650.0)" />
+
+   
+
+</svg>

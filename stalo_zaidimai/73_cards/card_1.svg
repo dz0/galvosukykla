@@ -1,0 +1,107 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="800" height="800" version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+  <desc>Card
+  </desc>
+
+  <!-- Show outline of canvas using 'rect' element -->
+  <rect x="0" y="0" width="800" height="800"
+        fill="white" stroke="black" stroke-width="4pt" />
+
+   
+    <image
+       y="50"
+       x="78.5714285714"
+       id="image12"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Bunny.png"
+       height="200"
+       width="142.857142857"
+       transform="rotate( 144 , 150.0, 150)" />
+
+
+    <image
+       y="61.8367314286"
+       x="300"
+       id="image13"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/ryanlerch_sunglasses_outline.png"
+       height="176.326537143"
+       width="200"
+       transform="rotate( 288 , 400, 150.0)" />
+
+
+    <image
+       y="101.157194125"
+       x="550"
+       id="image0"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/cartoon_bone.png"
+       height="97.6856117503"
+       width="200"
+       transform="rotate( 49 , 650, 150.0)" />
+
+
+    <image
+       y="300.0"
+       x="50"
+       id="image11"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/nicubunu_Soccer_ball.png"
+       height="200.0"
+       width="200"
+       transform="rotate( 200 , 150, 400.0)" />
+
+
+    <image
+       y="309.132956332"
+       x="300"
+       id="image10"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/14thWarrior_Cartoon_Elephant.png"
+       height="181.734087337"
+       width="200"
+       transform="rotate( 167 , 400, 400.0)" />
+
+
+    <image
+       y="350.478289998"
+       x="550"
+       id="image15"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Chrisdesign_Beetle_(car).png"
+       height="99.0434200033"
+       width="200"
+       transform="rotate( 109 , 650, 400.0)" />
+
+
+    <image
+       y="550"
+       x="79.292929041"
+       id="image9"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/PeterM_Flower.png"
+       height="200"
+       width="141.414141918"
+       transform="rotate( 2 , 150.0, 650)" />
+
+
+    <image
+       y="584.467995719"
+       x="300"
+       id="image16"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/johnny_automatic_butterfly_3.png"
+       height="131.064008562"
+       width="200"
+       transform="rotate( 264 , 400, 650.0)" />
+
+
+    <image
+       y="586.873538919"
+       x="550"
+       id="image14"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/lescinqailes_bicycle.png"
+       height="126.252922162"
+       width="200"
+       transform="rotate( 181 , 650, 650.0)" />
+
+   
+
+</svg>

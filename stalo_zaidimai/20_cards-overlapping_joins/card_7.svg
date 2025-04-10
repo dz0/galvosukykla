@@ -1,0 +1,87 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="800" height="800" version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+  <desc>Card
+  </desc>
+
+   
+    <image
+       y="75.0"
+       x="50"
+       id="image24"
+       xlink:href="file:///home/nijole/Downloads/spot-the-object-cards/png/dog-pup1000.png"
+       height="150.0"
+       width="200"
+       transform="rotate( 277 , 150, 150.0)" />
+
+
+    <image
+       y="76.1713727583"
+       x="550"
+       id="image2"
+       xlink:href="file:///home/nijole/Downloads/spot-the-object-cards/png/rygle_Aussie_Earth_Colour_Outline.png"
+       height="147.657254483"
+       width="200"
+       transform="rotate( 301 , 650, 150.0)" />
+
+
+    <image
+       y="259.132956332"
+       x="300"
+       id="image10"
+       xlink:href="file:///home/nijole/Downloads/spot-the-object-cards/png/14thWarrior_Cartoon_Elephant.png"
+       height="181.734087337"
+       width="200"
+       transform="rotate( 225 , 400, 350.0)" />
+
+
+    <image
+       y="250.0"
+       x="558.314454386"
+       id="image21"
+       xlink:href="file:///home/nijole/Downloads/spot-the-object-cards/png/apple-1307281670.png"
+       height="200"
+       width="183.371091227"
+       transform="rotate( 41 , 650.0, 350.0)" />
+
+
+    <image
+       y="500.0"
+       x="88.2539825075"
+       id="image3"
+       xlink:href="file:///home/nijole/Downloads/spot-the-object-cards/png/johnny_automatic_an_anchor.png"
+       height="200"
+       width="123.492034985"
+       transform="rotate( 27 , 150.0, 600.0)" />
+
+
+    <image
+       y="500.0"
+       x="328.690478297"
+       id="image8"
+       xlink:href="file:///home/nijole/Downloads/spot-the-object-cards/png/jean_victor_balin_snowman.png"
+       height="200"
+       width="142.619043406"
+       transform="rotate( 247 , 400.0, 600.0)" />
+
+
+    <image
+       y="500.0"
+       x="553.834221921"
+       id="image7"
+       xlink:href="file:///home/nijole/Downloads/spot-the-object-cards/png/Ghost_002.png"
+       height="200"
+       width="192.331556158"
+       transform="rotate( 197 , 650.0, 600.0)" />
+
+   
+   
+  <!-- Show outline of canvas using 'rect' element -->
+   <!-- <rect x=".01cm" y=".01cm" width="4.98cm" height="3.98cm"
+        fill="none" stroke="blue" stroke-width=".02cm" />-->
+
+</svg>

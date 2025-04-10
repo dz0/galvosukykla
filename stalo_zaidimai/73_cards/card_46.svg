@@ -1,0 +1,107 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="800" height="800" version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+  <desc>Card
+  </desc>
+
+  <!-- Show outline of canvas using 'rect' element -->
+  <rect x="0" y="0" width="800" height="800"
+        fill="white" stroke="black" stroke-width="4pt" />
+
+   
+    <image
+       y="73.3337724325"
+       x="50"
+       id="image55"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/jondkoon_pigeon.png"
+       height="153.332455135"
+       width="200"
+       transform="rotate( 16 , 150, 150.0)" />
+
+
+    <image
+       y="50"
+       x="312.964207003"
+       id="image5"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/CAT2.png"
+       height="200"
+       width="174.071585994"
+       transform="rotate( 111 , 400.0, 150)" />
+
+
+    <image
+       y="99.0960973407"
+       x="550"
+       id="image60"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/StudioFibonacci_Cartoon_Bat.png"
+       height="101.807805319"
+       width="200"
+       transform="rotate( 297 , 650, 150.0)" />
+
+
+    <image
+       y="354.457548057"
+       x="50"
+       id="image67"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/antontw_Kite.png"
+       height="91.084903886"
+       width="200"
+       transform="rotate( 336 , 150, 400.0)" />
+
+
+    <image
+       y="305.246770497"
+       x="300"
+       id="image25"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/jesusfreak210_Penguin.png"
+       height="189.506459007"
+       width="200"
+       transform="rotate( 277 , 400, 400.0)" />
+
+
+    <image
+       y="325.0"
+       x="550"
+       id="image24"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/dog-pup1000.png"
+       height="150.0"
+       width="200"
+       transform="rotate( 254 , 650, 400.0)" />
+
+
+    <image
+       y="550"
+       x="77.668757976"
+       id="image45"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/shokunin_easter_egg_single.png"
+       height="200"
+       width="144.662484048"
+       transform="rotate( 126 , 150.0, 650)" />
+
+
+    <image
+       y="586.873538919"
+       x="300"
+       id="image14"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/lescinqailes_bicycle.png"
+       height="126.252922162"
+       width="200"
+       transform="rotate( 201 , 400, 650.0)" />
+
+
+    <image
+       y="550.0"
+       x="550"
+       id="image34"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/nicubunu_Mushroom.png"
+       height="200.0"
+       width="200"
+       transform="rotate( 155 , 650, 650.0)" />
+
+   
+
+</svg>

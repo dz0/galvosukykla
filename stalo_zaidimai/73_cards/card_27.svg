@@ -1,0 +1,107 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="800" height="800" version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+  <desc>Card
+  </desc>
+
+  <!-- Show outline of canvas using 'rect' element -->
+  <rect x="0" y="0" width="800" height="800"
+        fill="white" stroke="black" stroke-width="4pt" />
+
+   
+    <image
+       y="50"
+       x="69.8432270661"
+       id="image30"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Gerald_G_KU_taraxacum_officinale.png"
+       height="200"
+       width="160.313545868"
+       transform="rotate( 158 , 150.0, 150)" />
+
+
+    <image
+       y="50"
+       x="313.027509551"
+       id="image63"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/StudioFibonacci_Cartoon_rhino.png"
+       height="200"
+       width="173.944980898"
+       transform="rotate( 179 , 400.0, 150)" />
+
+
+    <image
+       y="50.0"
+       x="550"
+       id="image11"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/nicubunu_Soccer_ball.png"
+       height="200.0"
+       width="200"
+       transform="rotate( 186 , 650, 150.0)" />
+
+
+    <image
+       y="300"
+       x="79.2929292929"
+       id="image56"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/PeterM_Ladybug.png"
+       height="200"
+       width="141.414141414"
+       transform="rotate( 16 , 150.0, 400)" />
+
+
+    <image
+       y="300"
+       x="338.253982507"
+       id="image3"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/johnny_automatic_an_anchor.png"
+       height="200"
+       width="123.492034985"
+       transform="rotate( 104 , 400.0, 400)" />
+
+
+    <image
+       y="300"
+       x="608.726996678"
+       id="image44"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/portablejim_Green_snake_with_red_belly.png"
+       height="200"
+       width="82.5460066439"
+       transform="rotate( 55 , 650.0, 400)" />
+
+
+    <image
+       y="583.333333333"
+       x="50"
+       id="image17"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/whitechess.png"
+       height="133.333333333"
+       width="200"
+       transform="rotate( 10 , 150, 650.0)" />
+
+
+    <image
+       y="550"
+       x="348.496638408"
+       id="image69"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/GreekSoldier.png"
+       height="200"
+       width="103.006723185"
+       transform="rotate( 251 , 400.0, 650)" />
+
+
+    <image
+       y="550.0"
+       x="550"
+       id="image34"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/nicubunu_Mushroom.png"
+       height="200.0"
+       width="200"
+       transform="rotate( 139 , 650, 650.0)" />
+
+   
+
+</svg>

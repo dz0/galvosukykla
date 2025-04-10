@@ -1,0 +1,107 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="800" height="800" version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+  <desc>Card
+  </desc>
+
+  <!-- Show outline of canvas using 'rect' element -->
+  <rect x="0" y="0" width="800" height="800"
+        fill="white" stroke="black" stroke-width="4pt" />
+
+   
+    <image
+       y="50"
+       x="62.964207003"
+       id="image5"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/CAT2.png"
+       height="200"
+       width="174.071585994"
+       transform="rotate( 346 , 150.0, 150)" />
+
+
+    <image
+       y="68.1003929642"
+       x="300"
+       id="image46"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/StudioFibonacci_Cartoon_monkey.png"
+       height="163.799214072"
+       width="200"
+       transform="rotate( 98 , 400, 150.0)" />
+
+
+    <image
+       y="50"
+       x="577.287877025"
+       id="image32"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Machovka_quarterfoil.png"
+       height="200"
+       width="145.424245951"
+       transform="rotate( 12 , 650.0, 150)" />
+
+
+    <image
+       y="300.0"
+       x="50"
+       id="image71"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/liftarn_Adventurer_Hat.png"
+       height="200.0"
+       width="200"
+       transform="rotate( 164 , 150, 400.0)" />
+
+
+    <image
+       y="300"
+       x="310.989229148"
+       id="image58"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/bsantos_Cow.png"
+       height="200"
+       width="178.021541703"
+       transform="rotate( 163 , 400.0, 400)" />
+
+
+    <image
+       y="300"
+       x="560.922257195"
+       id="image36"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/ryanlerch_ragno_the_spider_with_a_simple_web.png"
+       height="200"
+       width="178.155485611"
+       transform="rotate( 180 , 650.0, 400)" />
+
+
+    <image
+       y="583.333333333"
+       x="50"
+       id="image17"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/whitechess.png"
+       height="133.333333333"
+       width="200"
+       transform="rotate( 12 , 150, 650.0)" />
+
+
+    <image
+       y="579.292932256"
+       x="300"
+       id="image51"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/koconmus_Soldek.png"
+       height="141.414135487"
+       width="200"
+       transform="rotate( 240 , 400, 650.0)" />
+
+
+    <image
+       y="561.836731429"
+       x="550"
+       id="image13"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/ryanlerch_sunglasses_outline.png"
+       height="176.326537143"
+       width="200"
+       transform="rotate( 234 , 650, 650.0)" />
+
+   
+
+</svg>

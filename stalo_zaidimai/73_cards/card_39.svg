@@ -1,0 +1,107 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="800" height="800" version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+  <desc>Card
+  </desc>
+
+  <!-- Show outline of canvas using 'rect' element -->
+  <rect x="0" y="0" width="800" height="800"
+        fill="white" stroke="black" stroke-width="4pt" />
+
+   
+    <image
+       y="100.478289998"
+       x="50"
+       id="image15"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Chrisdesign_Beetle_(car).png"
+       height="99.0434200033"
+       width="200"
+       transform="rotate( 7 , 150, 150.0)" />
+
+
+    <image
+       y="50.0"
+       x="300"
+       id="image34"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/nicubunu_Mushroom.png"
+       height="200.0"
+       width="200"
+       transform="rotate( 267 , 400, 150.0)" />
+
+
+    <image
+       y="50"
+       x="560.739769978"
+       id="image28"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Machovka_panda.png"
+       height="200"
+       width="178.520460044"
+       transform="rotate( 168 , 650.0, 150)" />
+
+
+    <image
+       y="300"
+       x="102.914710217"
+       id="image72"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Machovka_Mobile_phone.png"
+       height="200"
+       width="94.1705795664"
+       transform="rotate( 97 , 150.0, 400)" />
+
+
+    <image
+       y="300"
+       x="308.314454386"
+       id="image21"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/apple-1307281670.png"
+       height="200"
+       width="183.371091227"
+       transform="rotate( 166 , 400.0, 400)" />
+
+
+    <image
+       y="368.360850843"
+       x="550"
+       id="image4"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/old_key.png"
+       height="63.2782983144"
+       width="200"
+       transform="rotate( 322 , 650, 400.0)" />
+
+
+    <image
+       y="573.384396093"
+       x="50"
+       id="image41"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Machovka_Shoes.png"
+       height="153.231207814"
+       width="200"
+       transform="rotate( 244 , 150, 650.0)" />
+
+
+    <image
+       y="579.292932256"
+       x="300"
+       id="image51"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/koconmus_Soldek.png"
+       height="141.414135487"
+       width="200"
+       transform="rotate( 344 , 400, 650.0)" />
+
+
+    <image
+       y="577.247022722"
+       x="550"
+       id="image62"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/treasure_map.png"
+       height="145.505954556"
+       width="200"
+       transform="rotate( 156 , 650, 650.0)" />
+
+   
+
+</svg>

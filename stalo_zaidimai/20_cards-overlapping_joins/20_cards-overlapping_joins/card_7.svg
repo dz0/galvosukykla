@@ -1,0 +1,87 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="800" height="800" version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+  <desc>Card
+  </desc>
+
+  <!-- Show outline of canvas using 'rect' element -->
+  <rect x="0" y="0" width="800" height="800"
+        fill="white" stroke="black" stroke-width="4pt" />
+
+   
+    <image
+       y="50"
+       x="53.8342219209"
+       id="image7"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Ghost_002.png"
+       height="200"
+       width="192.331556158"
+       transform="rotate( 345 , 150.0, 150)" />
+
+
+    <image
+       y="50"
+       x="338.253982507"
+       id="image3"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/johnny_automatic_an_anchor.png"
+       height="200"
+       width="123.492034985"
+       transform="rotate( 112 , 400.0, 150)" />
+
+
+    <image
+       y="50"
+       x="578.690478297"
+       id="image8"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/jean_victor_balin_snowman.png"
+       height="200"
+       width="142.619043406"
+       transform="rotate( 52 , 650.0, 150)" />
+
+
+    <image
+       y="326.171372758"
+       x="50"
+       id="image2"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/rygle_Aussie_Earth_Colour_Outline.png"
+       height="147.657254483"
+       width="200"
+       transform="rotate( 94 , 150, 400.0)" />
+
+
+    <image
+       y="575.0"
+       x="50"
+       id="image24"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/dog-pup1000.png"
+       height="150.0"
+       width="200"
+       transform="rotate( 48 , 150, 650.0)" />
+
+
+    <image
+       y="550"
+       x="308.314454386"
+       id="image21"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/apple-1307281670.png"
+       height="200"
+       width="183.371091227"
+       transform="rotate( 201 , 400.0, 650)" />
+
+
+    <image
+       y="559.132956332"
+       x="550"
+       id="image10"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/14thWarrior_Cartoon_Elephant.png"
+       height="181.734087337"
+       width="200"
+       transform="rotate( 178 , 650, 650.0)" />
+
+   
+
+</svg>

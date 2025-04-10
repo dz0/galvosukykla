@@ -1,0 +1,107 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="800" height="800" version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+  <desc>Card
+  </desc>
+
+  <!-- Show outline of canvas using 'rect' element -->
+  <rect x="0" y="0" width="800" height="800"
+        fill="white" stroke="black" stroke-width="4pt" />
+
+   
+    <image
+       y="106.500964831"
+       x="50"
+       id="image43"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/mekonee_29_vegetables_set_8.png"
+       height="86.9980703386"
+       width="200"
+       transform="rotate( 145 , 150, 150.0)" />
+
+
+    <image
+       y="101.157194125"
+       x="300"
+       id="image0"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/cartoon_bone.png"
+       height="97.6856117503"
+       width="200"
+       transform="rotate( 36 , 400, 150.0)" />
+
+
+    <image
+       y="50"
+       x="574.605456357"
+       id="image48"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/sfrias_Jirafa.png"
+       height="200"
+       width="150.789087286"
+       transform="rotate( 306 , 650.0, 150)" />
+
+
+    <image
+       y="300"
+       x="108.726996678"
+       id="image44"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/portablejim_Green_snake_with_red_belly.png"
+       height="200"
+       width="82.5460066439"
+       transform="rotate( 319 , 150.0, 400)" />
+
+
+    <image
+       y="300"
+       x="327.668757976"
+       id="image45"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/shokunin_easter_egg_single.png"
+       height="200"
+       width="144.662484048"
+       transform="rotate( 212 , 400.0, 400)" />
+
+
+    <image
+       y="323.384396093"
+       x="550"
+       id="image41"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Machovka_Shoes.png"
+       height="153.231207814"
+       width="200"
+       transform="rotate( 144 , 650, 400.0)" />
+
+
+    <image
+       y="550"
+       x="126.082983387"
+       id="image42"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/mekonee_29_vegetables_set_4.png"
+       height="200"
+       width="47.8340332255"
+       transform="rotate( 15 , 150.0, 650)" />
+
+
+    <image
+       y="568.100392964"
+       x="300"
+       id="image46"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/StudioFibonacci_Cartoon_monkey.png"
+       height="163.799214072"
+       width="200"
+       transform="rotate( 185 , 400, 650.0)" />
+
+
+    <image
+       y="603.893412372"
+       x="550"
+       id="image47"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Machovka_pikeperch.png"
+       height="92.213175256"
+       width="200"
+       transform="rotate( 341 , 650, 650.0)" />
+
+   
+
+</svg>

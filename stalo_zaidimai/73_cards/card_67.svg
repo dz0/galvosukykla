@@ -1,0 +1,107 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="800" height="800" version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+  <desc>Card
+  </desc>
+
+  <!-- Show outline of canvas using 'rect' element -->
+  <rect x="0" y="0" width="800" height="800"
+        fill="white" stroke="black" stroke-width="4pt" />
+
+   
+    <image
+       y="50"
+       x="79.7386749986"
+       id="image33"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Machovka_strawberry.png"
+       height="200"
+       width="140.522650003"
+       transform="rotate( 61 , 150.0, 150)" />
+
+
+    <image
+       y="50"
+       x="328.690478297"
+       id="image8"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/jean_victor_balin_snowman.png"
+       height="200"
+       width="142.619043406"
+       transform="rotate( 133 , 400.0, 150)" />
+
+
+    <image
+       y="57.023611577"
+       x="550"
+       id="image50"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/zeimusu_Lion.png"
+       height="185.952776846"
+       width="200"
+       transform="rotate( 96 , 650, 150.0)" />
+
+
+    <image
+       y="310.86102373"
+       x="50"
+       id="image29"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/CartoonMooseRemix.png"
+       height="178.27795254"
+       width="200"
+       transform="rotate( 138 , 150, 400.0)" />
+
+
+    <image
+       y="300.0"
+       x="300"
+       id="image11"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/nicubunu_Soccer_ball.png"
+       height="200.0"
+       width="200"
+       transform="rotate( 248 , 400, 400.0)" />
+
+
+    <image
+       y="300"
+       x="602.914710217"
+       id="image72"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Machovka_Mobile_phone.png"
+       height="200"
+       width="94.1705795664"
+       transform="rotate( 2 , 650.0, 400)" />
+
+
+    <image
+       y="568.100392964"
+       x="50"
+       id="image46"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/StudioFibonacci_Cartoon_monkey.png"
+       height="163.799214072"
+       width="200"
+       transform="rotate( 117 , 150, 650.0)" />
+
+
+    <image
+       y="550.0"
+       x="300"
+       id="image23"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/COMPASS.png"
+       height="200.0"
+       width="200"
+       transform="rotate( 123 , 400, 650.0)" />
+
+
+    <image
+       y="599.096097341"
+       x="550"
+       id="image60"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/StudioFibonacci_Cartoon_Bat.png"
+       height="101.807805319"
+       width="200"
+       transform="rotate( 12 , 650, 650.0)" />
+
+   
+
+</svg>

@@ -1,0 +1,67 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="800" height="800" version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+  <desc>Card
+  </desc>
+
+  <!-- Show outline of canvas using 'rect' element -->
+  <rect x="0" y="0" width="800" height="800"
+        fill="white" stroke="black" stroke-width="4pt" />
+
+   
+    <image
+       y="50"
+       x="328.690478297"
+       id="image8"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/jean_victor_balin_snowman.png"
+       height="200"
+       width="142.619043406"
+       transform="rotate( 4 , 400.0, 150)" />
+
+
+    <image
+       y="326.171372758"
+       x="300"
+       id="image2"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/rygle_Aussie_Earth_Colour_Outline.png"
+       height="147.657254483"
+       width="200"
+       transform="rotate( 34 , 400, 400.0)" />
+
+
+    <image
+       y="351.157194125"
+       x="550"
+       id="image0"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/cartoon_bone.png"
+       height="97.6856117503"
+       width="200"
+       transform="rotate( 198 , 650, 400.0)" />
+
+
+    <image
+       y="559.132956332"
+       x="50"
+       id="image10"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/14thWarrior_Cartoon_Elephant.png"
+       height="181.734087337"
+       width="200"
+       transform="rotate( 347 , 150, 650.0)" />
+
+
+    <image
+       y="550"
+       x="329.292929041"
+       id="image9"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/PeterM_Flower.png"
+       height="200"
+       width="141.414141918"
+       transform="rotate( 184 , 400.0, 650)" />
+
+   
+
+</svg>

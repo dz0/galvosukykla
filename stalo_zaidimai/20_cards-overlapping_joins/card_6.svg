@@ -1,0 +1,87 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="800" height="800" version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+  <desc>Card
+  </desc>
+
+   
+    <image
+       y="50"
+       x="81.1215098757"
+       id="image6"
+       xlink:href="file:///home/nijole/Downloads/spot-the-object-cards/png/Machovka_Guitar.png"
+       height="200"
+       width="137.756980249"
+       transform="rotate( 312 , 150.0, 150)" />
+
+
+    <image
+       y="50"
+       x="563.203460145"
+       id="image1"
+       xlink:href="file:///home/nijole/Downloads/spot-the-object-cards/png/clock.png"
+       height="200"
+       width="173.59307971"
+       transform="rotate( 82 , 650.0, 150)" />
+
+
+    <image
+       y="325.0"
+       x="50"
+       id="image24"
+       xlink:href="file:///home/nijole/Downloads/spot-the-object-cards/png/dog-pup1000.png"
+       height="150.0"
+       width="200"
+       transform="rotate( 198 , 150, 400.0)" />
+
+
+    <image
+       y="300"
+       x="329.292929041"
+       id="image9"
+       xlink:href="file:///home/nijole/Downloads/spot-the-object-cards/png/PeterM_Flower.png"
+       height="200"
+       width="141.414141918"
+       transform="rotate( 20 , 400.0, 400)" />
+
+
+    <image
+       y="368.360850843"
+       x="550"
+       id="image4"
+       xlink:href="file:///home/nijole/Downloads/spot-the-object-cards/png/old_key.png"
+       height="63.2782983144"
+       width="200"
+       transform="rotate( 301 , 650, 400.0)" />
+
+
+    <image
+       y="586.873538919"
+       x="300"
+       id="image14"
+       xlink:href="file:///home/nijole/Downloads/spot-the-object-cards/png/lescinqailes_bicycle.png"
+       height="126.252922162"
+       width="200"
+       transform="rotate( 210 , 400, 650.0)" />
+
+
+    <image
+       y="583.333333333"
+       x="550"
+       id="image17"
+       xlink:href="file:///home/nijole/Downloads/spot-the-object-cards/png/whitechess.png"
+       height="133.333333333"
+       width="200"
+       transform="rotate( 53 , 650, 650.0)" />
+
+   
+   
+  <!-- Show outline of canvas using 'rect' element -->
+   <!-- <rect x=".01cm" y=".01cm" width="4.98cm" height="3.98cm"
+        fill="none" stroke="blue" stroke-width=".02cm" />-->
+
+</svg>

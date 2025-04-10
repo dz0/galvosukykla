@@ -1,0 +1,107 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="800" height="800" version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+  <desc>Card
+  </desc>
+
+  <!-- Show outline of canvas using 'rect' element -->
+  <rect x="0" y="0" width="800" height="800"
+        fill="white" stroke="black" stroke-width="4pt" />
+
+   
+    <image
+       y="55.2467704967"
+       x="50"
+       id="image25"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/jesusfreak210_Penguin.png"
+       height="189.506459007"
+       width="200"
+       transform="rotate( 275 , 150, 150.0)" />
+
+
+    <image
+       y="59.1329563316"
+       x="300"
+       id="image10"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/14thWarrior_Cartoon_Elephant.png"
+       height="181.734087337"
+       width="200"
+       transform="rotate( 168 , 400, 150.0)" />
+
+
+    <image
+       y="68.7532414076"
+       x="550"
+       id="image20"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Chestnut.png"
+       height="162.493517185"
+       width="200"
+       transform="rotate( 3 , 650, 150.0)" />
+
+
+    <image
+       y="329.292932256"
+       x="50"
+       id="image51"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/koconmus_Soldek.png"
+       height="141.414135487"
+       width="200"
+       transform="rotate( 119 , 150, 400.0)" />
+
+
+    <image
+       y="300"
+       x="300.000006571"
+       id="image37"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/sun-1287157794.png"
+       height="200"
+       width="199.999986857"
+       transform="rotate( 265 , 400.0, 400)" />
+
+
+    <image
+       y="300"
+       x="553.715170279"
+       id="image70"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/jean_victor_balin_balloons.png"
+       height="200"
+       width="192.569659443"
+       transform="rotate( 170 , 650.0, 400)" />
+
+
+    <image
+       y="550"
+       x="63.027509551"
+       id="image63"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/StudioFibonacci_Cartoon_rhino.png"
+       height="200"
+       width="173.944980898"
+       transform="rotate( 33 , 150.0, 650)" />
+
+
+    <image
+       y="550"
+       x="324.605456357"
+       id="image48"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/sfrias_Jirafa.png"
+       height="200"
+       width="150.789087286"
+       transform="rotate( 2 , 400.0, 650)" />
+
+
+    <image
+       y="550"
+       x="578.690478297"
+       id="image8"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/jean_victor_balin_snowman.png"
+       height="200"
+       width="142.619043406"
+       transform="rotate( 69 , 650.0, 650)" />
+
+   
+
+</svg>

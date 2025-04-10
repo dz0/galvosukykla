@@ -1,0 +1,107 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="800" height="800" version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+  <desc>Card
+  </desc>
+
+  <!-- Show outline of canvas using 'rect' element -->
+  <rect x="0" y="0" width="800" height="800"
+        fill="white" stroke="black" stroke-width="4pt" />
+
+   
+    <image
+       y="50"
+       x="69.7158817994"
+       id="image59"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Machovka_parrot.png"
+       height="200"
+       width="160.568236401"
+       transform="rotate( 308 , 150.0, 150)" />
+
+
+    <image
+       y="50.0"
+       x="300"
+       id="image11"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/nicubunu_Soccer_ball.png"
+       height="200.0"
+       width="200"
+       transform="rotate( 70 , 400, 150.0)" />
+
+
+    <image
+       y="79.2929322564"
+       x="550"
+       id="image51"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/koconmus_Soldek.png"
+       height="141.414135487"
+       width="200"
+       transform="rotate( 173 , 650, 150.0)" />
+
+
+    <image
+       y="356.500964831"
+       x="50"
+       id="image43"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/mekonee_29_vegetables_set_8.png"
+       height="86.9980703386"
+       width="200"
+       transform="rotate( 303 , 150, 400.0)" />
+
+
+    <image
+       y="354.457548057"
+       x="300"
+       id="image67"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/antontw_Kite.png"
+       height="91.084903886"
+       width="200"
+       transform="rotate( 185 , 400, 400.0)" />
+
+
+    <image
+       y="300"
+       x="578.925944362"
+       id="image27"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/lagartoflojo_Water_Drop.png"
+       height="200"
+       width="142.148111276"
+       transform="rotate( 65 , 650.0, 400)" />
+
+
+    <image
+       y="550"
+       x="63.2034601451"
+       id="image1"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/clock.png"
+       height="200"
+       width="173.59307971"
+       transform="rotate( 206 , 150.0, 650)" />
+
+
+    <image
+       y="550"
+       x="312.5"
+       id="image35"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Peileppe_Photorealistic_Red_Apple.png"
+       height="200"
+       width="175.0"
+       transform="rotate( 121 , 400.0, 650)" />
+
+
+    <image
+       y="550"
+       x="550.383054615"
+       id="image19"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/christmas_bells.png"
+       height="200"
+       width="199.23389077"
+       transform="rotate( 274 , 650.0, 650)" />
+
+   
+
+</svg>

@@ -1,0 +1,107 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="800" height="800" version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+  <desc>Card
+  </desc>
+
+  <!-- Show outline of canvas using 'rect' element -->
+  <rect x="0" y="0" width="800" height="800"
+        fill="white" stroke="black" stroke-width="4pt" />
+
+   
+    <image
+       y="100.478289998"
+       x="50"
+       id="image15"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Chrisdesign_Beetle_(car).png"
+       height="99.0434200033"
+       width="200"
+       transform="rotate( 337 , 150, 150.0)" />
+
+
+    <image
+       y="99.0960973407"
+       x="300"
+       id="image60"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/StudioFibonacci_Cartoon_Bat.png"
+       height="101.807805319"
+       width="200"
+       transform="rotate( 275 , 400, 150.0)" />
+
+
+    <image
+       y="50"
+       x="578.925944362"
+       id="image27"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/lagartoflojo_Water_Drop.png"
+       height="200"
+       width="142.148111276"
+       transform="rotate( 147 , 650.0, 150)" />
+
+
+    <image
+       y="308.582153611"
+       x="50"
+       id="image66"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Anonymous_table_tennis.png"
+       height="182.835692777"
+       width="200"
+       transform="rotate( 118 , 150, 400.0)" />
+
+
+    <image
+       y="333.333333333"
+       x="300"
+       id="image17"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/whitechess.png"
+       height="133.333333333"
+       width="200"
+       transform="rotate( 69 , 400, 400.0)" />
+
+
+    <image
+       y="300"
+       x="574.605456357"
+       id="image48"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/sfrias_Jirafa.png"
+       height="200"
+       width="150.789087286"
+       transform="rotate( 348 , 650.0, 400)" />
+
+
+    <image
+       y="554.724044036"
+       x="50"
+       id="image53"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/maven_wood_cut_zebra.png"
+       height="190.551911929"
+       width="200"
+       transform="rotate( 268 , 150, 650.0)" />
+
+
+    <image
+       y="550"
+       x="304.003833339"
+       id="image38"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/zucca_architetto_frances_01.png"
+       height="200"
+       width="191.992333322"
+       transform="rotate( 76 , 400.0, 650)" />
+
+
+    <image
+       y="550"
+       x="553.834221921"
+       id="image7"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Ghost_002.png"
+       height="200"
+       width="192.331556158"
+       transform="rotate( 295 , 650.0, 650)" />
+
+   
+
+</svg>

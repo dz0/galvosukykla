@@ -1,0 +1,107 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="800" height="800" version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+  <desc>Card
+  </desc>
+
+  <!-- Show outline of canvas using 'rect' element -->
+  <rect x="0" y="0" width="800" height="800"
+        fill="white" stroke="black" stroke-width="4pt" />
+
+   
+    <image
+       y="50"
+       x="79.7386749986"
+       id="image33"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Machovka_strawberry.png"
+       height="200"
+       width="140.522650003"
+       transform="rotate( 286 , 150.0, 150)" />
+
+
+    <image
+       y="50"
+       x="319.715881799"
+       id="image59"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Machovka_parrot.png"
+       height="200"
+       width="160.568236401"
+       transform="rotate( 87 , 400.0, 150)" />
+
+
+    <image
+       y="50.0"
+       x="550"
+       id="image22"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/cards-applications-games.png"
+       height="200.0"
+       width="200"
+       transform="rotate( 200 , 650, 150.0)" />
+
+
+    <image
+       y="300"
+       x="60.739769978"
+       id="image28"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Machovka_panda.png"
+       height="200"
+       width="178.520460044"
+       transform="rotate( 32 , 150.0, 400)" />
+
+
+    <image
+       y="300"
+       x="327.668757976"
+       id="image45"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/shokunin_easter_egg_single.png"
+       height="200"
+       width="144.662484048"
+       transform="rotate( 173 , 400.0, 400)" />
+
+
+    <image
+       y="300"
+       x="553.834221921"
+       id="image7"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Ghost_002.png"
+       height="200"
+       width="192.331556158"
+       transform="rotate( 21 , 650.0, 400)" />
+
+
+    <image
+       y="550"
+       x="79.2929292929"
+       id="image56"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/PeterM_Ladybug.png"
+       height="200"
+       width="141.414141414"
+       transform="rotate( 352 , 150.0, 650)" />
+
+
+    <image
+       y="559.132956332"
+       x="300"
+       id="image10"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/14thWarrior_Cartoon_Elephant.png"
+       height="181.734087337"
+       width="200"
+       transform="rotate( 285 , 400, 650.0)" />
+
+
+    <image
+       y="550.0"
+       x="550"
+       id="image71"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/liftarn_Adventurer_Hat.png"
+       height="200.0"
+       width="200"
+       transform="rotate( 43 , 650, 650.0)" />
+
+   
+
+</svg>

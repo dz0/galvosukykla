@@ -1,0 +1,107 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="800" height="800" version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+  <desc>Card
+  </desc>
+
+  <!-- Show outline of canvas using 'rect' element -->
+  <rect x="0" y="0" width="800" height="800"
+        fill="white" stroke="black" stroke-width="4pt" />
+
+   
+    <image
+       y="50"
+       x="79.2929292912"
+       id="image57"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/zeimusu_Watermelon.png"
+       height="200"
+       width="141.414141418"
+       transform="rotate( 110 , 150.0, 150)" />
+
+
+    <image
+       y="81.0512387702"
+       x="300"
+       id="image31"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Jarno_Cessna.png"
+       height="137.89752246"
+       width="200"
+       transform="rotate( 31 , 400, 150.0)" />
+
+
+    <image
+       y="50"
+       x="558.314454386"
+       id="image21"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/apple-1307281670.png"
+       height="200"
+       width="183.371091227"
+       transform="rotate( 223 , 650.0, 150)" />
+
+
+    <image
+       y="300"
+       x="78.6904782969"
+       id="image8"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/jean_victor_balin_snowman.png"
+       height="200"
+       width="142.619043406"
+       transform="rotate( 88 , 150.0, 400)" />
+
+
+    <image
+       y="300"
+       x="329.292929293"
+       id="image56"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/PeterM_Ladybug.png"
+       height="200"
+       width="141.414141414"
+       transform="rotate( 277 , 400.0, 400)" />
+
+
+    <image
+       y="336.873538919"
+       x="550"
+       id="image14"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/lescinqailes_bicycle.png"
+       height="126.252922162"
+       width="200"
+       transform="rotate( 258 , 650, 400.0)" />
+
+
+    <image
+       y="550"
+       x="60.9222571947"
+       id="image36"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/ryanlerch_ragno_the_spider_with_a_simple_web.png"
+       height="200"
+       width="178.155485611"
+       transform="rotate( 329 , 150.0, 650)" />
+
+
+    <image
+       y="606.500964831"
+       x="300"
+       id="image43"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/mekonee_29_vegetables_set_8.png"
+       height="86.9980703386"
+       width="200"
+       transform="rotate( 200 , 400, 650.0)" />
+
+
+    <image
+       y="558.582153611"
+       x="550"
+       id="image66"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Anonymous_table_tennis.png"
+       height="182.835692777"
+       width="200"
+       transform="rotate( 124 , 650, 650.0)" />
+
+   
+
+</svg>

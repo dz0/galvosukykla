@@ -1,0 +1,107 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="800" height="800" version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+  <desc>Card
+  </desc>
+
+  <!-- Show outline of canvas using 'rect' element -->
+  <rect x="0" y="0" width="800" height="800"
+        fill="white" stroke="black" stroke-width="4pt" />
+
+   
+    <image
+       y="52.1803219945"
+       x="50"
+       id="image52"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/lemmling_Cartoon_owl.png"
+       height="195.639356011"
+       width="200"
+       transform="rotate( 10 , 150, 150.0)" />
+
+
+    <image
+       y="106.500964831"
+       x="300"
+       id="image43"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/mekonee_29_vegetables_set_8.png"
+       height="86.9980703386"
+       width="200"
+       transform="rotate( 156 , 400, 150.0)" />
+
+
+    <image
+       y="50.0"
+       x="550"
+       id="image34"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/nicubunu_Mushroom.png"
+       height="200.0"
+       width="200"
+       transform="rotate( 315 , 650, 150.0)" />
+
+
+    <image
+       y="300"
+       x="77.2878770247"
+       id="image32"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Machovka_quarterfoil.png"
+       height="200"
+       width="145.424245951"
+       transform="rotate( 85 , 150.0, 400)" />
+
+
+    <image
+       y="300"
+       x="329.292929041"
+       id="image9"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/PeterM_Flower.png"
+       height="200"
+       width="141.414141918"
+       transform="rotate( 132 , 400.0, 400)" />
+
+
+    <image
+       y="300.0"
+       x="550"
+       id="image23"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/COMPASS.png"
+       height="200.0"
+       width="200"
+       transform="rotate( 290 , 650, 400.0)" />
+
+
+    <image
+       y="550"
+       x="107.833705359"
+       id="image61"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/johnny_automatic_paint_brush.png"
+       height="200"
+       width="84.3325892812"
+       transform="rotate( 213 , 150.0, 650)" />
+
+
+    <image
+       y="550"
+       x="303.715170279"
+       id="image70"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/jean_victor_balin_balloons.png"
+       height="200"
+       width="192.569659443"
+       transform="rotate( 196 , 400.0, 650)" />
+
+
+    <image
+       y="550"
+       x="553.834221921"
+       id="image7"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Ghost_002.png"
+       height="200"
+       width="192.331556158"
+       transform="rotate( 179 , 650.0, 650)" />
+
+   
+
+</svg>

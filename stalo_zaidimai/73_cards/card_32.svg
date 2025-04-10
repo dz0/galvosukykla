@@ -1,0 +1,107 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="800" height="800" version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+  <desc>Card
+  </desc>
+
+  <!-- Show outline of canvas using 'rect' element -->
+  <rect x="0" y="0" width="800" height="800"
+        fill="white" stroke="black" stroke-width="4pt" />
+
+   
+    <image
+       y="50"
+       x="79.2929292912"
+       id="image57"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/zeimusu_Watermelon.png"
+       height="200"
+       width="141.414141418"
+       transform="rotate( 160 , 150.0, 150)" />
+
+
+    <image
+       y="50"
+       x="304.003833339"
+       id="image38"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/zucca_architetto_frances_01.png"
+       height="200"
+       width="191.992333322"
+       transform="rotate( 36 , 400.0, 150)" />
+
+
+    <image
+       y="50.0"
+       x="550"
+       id="image23"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/COMPASS.png"
+       height="200.0"
+       width="200"
+       transform="rotate( 239 , 650, 150.0)" />
+
+
+    <image
+       y="300"
+       x="77.668757976"
+       id="image45"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/shokunin_easter_egg_single.png"
+       height="200"
+       width="144.662484048"
+       transform="rotate( 151 , 150.0, 400)" />
+
+
+    <image
+       y="300"
+       x="311.254233895"
+       id="image26"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/johnny_automatic_magnet.png"
+       height="200"
+       width="177.491532211"
+       transform="rotate( 171 , 400.0, 400)" />
+
+
+    <image
+       y="329.292932256"
+       x="550"
+       id="image51"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/koconmus_Soldek.png"
+       height="141.414135487"
+       width="200"
+       transform="rotate( 230 , 650, 400.0)" />
+
+
+    <image
+       y="550"
+       x="88.2539825075"
+       id="image3"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/johnny_automatic_an_anchor.png"
+       height="200"
+       width="123.492034985"
+       transform="rotate( 18 , 150.0, 650)" />
+
+
+    <image
+       y="599.732101529"
+       x="300"
+       id="image68"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/dragon02.png"
+       height="100.535796941"
+       width="200"
+       transform="rotate( 171 , 400, 650.0)" />
+
+
+    <image
+       y="584.467995719"
+       x="550"
+       id="image16"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/johnny_automatic_butterfly_3.png"
+       height="131.064008562"
+       width="200"
+       transform="rotate( 147 , 650, 650.0)" />
+
+   
+
+</svg>

@@ -1,0 +1,107 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="800" height="800" version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+  <desc>Card
+  </desc>
+
+  <!-- Show outline of canvas using 'rect' element -->
+  <rect x="0" y="0" width="800" height="800"
+        fill="white" stroke="black" stroke-width="4pt" />
+
+   
+    <image
+       y="106.500964831"
+       x="50"
+       id="image43"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/mekonee_29_vegetables_set_8.png"
+       height="86.9980703386"
+       width="200"
+       transform="rotate( 9 , 150, 150.0)" />
+
+
+    <image
+       y="50"
+       x="331.121509876"
+       id="image6"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Machovka_Guitar.png"
+       height="200"
+       width="137.756980249"
+       transform="rotate( 272 , 400.0, 150)" />
+
+
+    <image
+       y="50"
+       x="563.027509551"
+       id="image63"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/StudioFibonacci_Cartoon_rhino.png"
+       height="200"
+       width="173.944980898"
+       transform="rotate( 80 , 650.0, 150)" />
+
+
+    <image
+       y="300"
+       x="54.0038333389"
+       id="image38"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/zucca_architetto_frances_01.png"
+       height="200"
+       width="191.992333322"
+       transform="rotate( 90 , 150.0, 400)" />
+
+
+    <image
+       y="307.023611577"
+       x="300"
+       id="image50"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/zeimusu_Lion.png"
+       height="185.952776846"
+       width="200"
+       transform="rotate( 255 , 400, 400.0)" />
+
+
+    <image
+       y="300"
+       x="560.739769978"
+       id="image28"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Machovka_panda.png"
+       height="200"
+       width="178.520460044"
+       transform="rotate( 332 , 650.0, 400)" />
+
+
+    <image
+       y="587.216251703"
+       x="50"
+       id="image65"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/1291884712.png"
+       height="125.567496593"
+       width="200"
+       transform="rotate( 317 , 150, 650.0)" />
+
+
+    <image
+       y="575.0"
+       x="300"
+       id="image24"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/dog-pup1000.png"
+       height="150.0"
+       width="200"
+       transform="rotate( 132 , 400, 650.0)" />
+
+
+    <image
+       y="561.836731429"
+       x="550"
+       id="image13"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/ryanlerch_sunglasses_outline.png"
+       height="176.326537143"
+       width="200"
+       transform="rotate( 63 , 650, 650.0)" />
+
+   
+
+</svg>

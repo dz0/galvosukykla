@@ -1,0 +1,107 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="800" height="800" version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+  <desc>Card
+  </desc>
+
+  <!-- Show outline of canvas using 'rect' element -->
+  <rect x="0" y="0" width="800" height="800"
+        fill="white" stroke="black" stroke-width="4pt" />
+
+   
+    <image
+       y="68.7532414076"
+       x="50"
+       id="image20"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Chestnut.png"
+       height="162.493517185"
+       width="200"
+       transform="rotate( 290 , 150, 150.0)" />
+
+
+    <image
+       y="50"
+       x="338.253982507"
+       id="image3"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/johnny_automatic_an_anchor.png"
+       height="200"
+       width="123.492034985"
+       transform="rotate( 229 , 400.0, 150)" />
+
+
+    <image
+       y="57.023611577"
+       x="550"
+       id="image50"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/zeimusu_Lion.png"
+       height="185.952776846"
+       width="200"
+       transform="rotate( 78 , 650, 150.0)" />
+
+
+    <image
+       y="323.384396093"
+       x="50"
+       id="image41"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Machovka_Shoes.png"
+       height="153.231207814"
+       width="200"
+       transform="rotate( 346 , 150, 400.0)" />
+
+
+    <image
+       y="300.0"
+       x="300"
+       id="image71"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/liftarn_Adventurer_Hat.png"
+       height="200.0"
+       width="200"
+       transform="rotate( 9 , 400, 400.0)" />
+
+
+    <image
+       y="300"
+       x="578.925944362"
+       id="image27"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/lagartoflojo_Water_Drop.png"
+       height="200"
+       width="142.148111276"
+       transform="rotate( 52 , 650.0, 400)" />
+
+
+    <image
+       y="555.722613608"
+       x="50"
+       id="image40"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/kattekrab_plane_tree_autumn_leaf.png"
+       height="188.554772784"
+       width="200"
+       transform="rotate( 150 , 150, 650.0)" />
+
+
+    <image
+       y="586.873538919"
+       x="300"
+       id="image14"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/lescinqailes_bicycle.png"
+       height="126.252922162"
+       width="200"
+       transform="rotate( 11 , 400, 650.0)" />
+
+
+    <image
+       y="550"
+       x="607.833705359"
+       id="image61"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/johnny_automatic_paint_brush.png"
+       height="200"
+       width="84.3325892812"
+       transform="rotate( 200 , 650.0, 650)" />
+
+   
+
+</svg>

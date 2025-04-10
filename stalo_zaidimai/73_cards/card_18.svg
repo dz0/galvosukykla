@@ -1,0 +1,107 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="800" height="800" version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+  <desc>Card
+  </desc>
+
+  <!-- Show outline of canvas using 'rect' element -->
+  <rect x="0" y="0" width="800" height="800"
+        fill="white" stroke="black" stroke-width="4pt" />
+
+   
+    <image
+       y="59.1329563316"
+       x="50"
+       id="image10"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/14thWarrior_Cartoon_Elephant.png"
+       height="181.734087337"
+       width="200"
+       transform="rotate( 313 , 150, 150.0)" />
+
+
+    <image
+       y="83.3333333333"
+       x="300"
+       id="image17"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/whitechess.png"
+       height="133.333333333"
+       width="200"
+       transform="rotate( 212 , 400, 150.0)" />
+
+
+    <image
+       y="60.86102373"
+       x="550"
+       id="image29"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/CartoonMooseRemix.png"
+       height="178.27795254"
+       width="200"
+       transform="rotate( 308 , 650, 150.0)" />
+
+
+    <image
+       y="323.333772432"
+       x="50"
+       id="image55"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/jondkoon_pigeon.png"
+       height="153.332455135"
+       width="200"
+       transform="rotate( 285 , 150, 400.0)" />
+
+
+    <image
+       y="326.171372758"
+       x="300"
+       id="image2"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/rygle_Aussie_Earth_Colour_Outline.png"
+       height="147.657254483"
+       width="200"
+       transform="rotate( 201 , 400, 400.0)" />
+
+
+    <image
+       y="305.722613608"
+       x="550"
+       id="image40"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/kattekrab_plane_tree_autumn_leaf.png"
+       height="188.554772784"
+       width="200"
+       transform="rotate( 108 , 650, 400.0)" />
+
+
+    <image
+       y="599.732101529"
+       x="50"
+       id="image68"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/dragon02.png"
+       height="100.535796941"
+       width="200"
+       transform="rotate( 210 , 150, 650.0)" />
+
+
+    <image
+       y="606.500964831"
+       x="300"
+       id="image43"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/mekonee_29_vegetables_set_8.png"
+       height="86.9980703386"
+       width="200"
+       transform="rotate( 261 , 400, 650.0)" />
+
+
+    <image
+       y="577.247022722"
+       x="550"
+       id="image62"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/treasure_map.png"
+       height="145.505954556"
+       width="200"
+       transform="rotate( 81 , 650, 650.0)" />
+
+   
+
+</svg>

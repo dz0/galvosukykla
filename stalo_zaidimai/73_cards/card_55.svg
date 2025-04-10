@@ -1,0 +1,107 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="800" height="800" version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+  <desc>Card
+  </desc>
+
+  <!-- Show outline of canvas using 'rect' element -->
+  <rect x="0" y="0" width="800" height="800"
+        fill="white" stroke="black" stroke-width="4pt" />
+
+   
+    <image
+       y="50"
+       x="81.1215098757"
+       id="image6"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Machovka_Guitar.png"
+       height="200"
+       width="137.756980249"
+       transform="rotate( 83 , 150.0, 150)" />
+
+
+    <image
+       y="100.478289998"
+       x="300"
+       id="image15"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Chrisdesign_Beetle_(car).png"
+       height="99.0434200033"
+       width="200"
+       transform="rotate( 44 , 400, 150.0)" />
+
+
+    <image
+       y="50"
+       x="579.292929293"
+       id="image56"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/PeterM_Ladybug.png"
+       height="200"
+       width="141.414141414"
+       transform="rotate( 310 , 650.0, 150)" />
+
+
+    <image
+       y="349.732101529"
+       x="50"
+       id="image68"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/dragon02.png"
+       height="100.535796941"
+       width="200"
+       transform="rotate( 194 , 150, 400.0)" />
+
+
+    <image
+       y="305.246770497"
+       x="300"
+       id="image25"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/jesusfreak210_Penguin.png"
+       height="189.506459007"
+       width="200"
+       transform="rotate( 316 , 400, 400.0)" />
+
+
+    <image
+       y="351.857769906"
+       x="550"
+       id="image18"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Gerald_G_Toothbrush_and_toothpaste.png"
+       height="96.2844601879"
+       width="200"
+       transform="rotate( 197 , 650, 400.0)" />
+
+
+    <image
+       y="550"
+       x="107.833705359"
+       id="image61"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/johnny_automatic_paint_brush.png"
+       height="200"
+       width="84.3325892812"
+       transform="rotate( 206 , 150.0, 650)" />
+
+
+    <image
+       y="550"
+       x="312.5"
+       id="image35"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Peileppe_Photorealistic_Red_Apple.png"
+       height="200"
+       width="175.0"
+       transform="rotate( 292 , 400.0, 650)" />
+
+
+    <image
+       y="568.100392964"
+       x="550"
+       id="image46"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/StudioFibonacci_Cartoon_monkey.png"
+       height="163.799214072"
+       width="200"
+       transform="rotate( 258 , 650, 650.0)" />
+
+   
+
+</svg>

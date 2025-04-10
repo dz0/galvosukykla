@@ -1,0 +1,107 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="800" height="800" version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+  <desc>Card
+  </desc>
+
+  <!-- Show outline of canvas using 'rect' element -->
+  <rect x="0" y="0" width="800" height="800"
+        fill="white" stroke="black" stroke-width="4pt" />
+
+   
+    <image
+       y="52.1803219945"
+       x="50"
+       id="image52"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/lemmling_Cartoon_owl.png"
+       height="195.639356011"
+       width="200"
+       transform="rotate( 16 , 150, 150.0)" />
+
+
+    <image
+       y="50"
+       x="300.000006571"
+       id="image37"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/sun-1287157794.png"
+       height="200"
+       width="199.999986857"
+       transform="rotate( 345 , 400.0, 150)" />
+
+
+    <image
+       y="50"
+       x="561.254233895"
+       id="image26"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/johnny_automatic_magnet.png"
+       height="200"
+       width="177.491532211"
+       transform="rotate( 229 , 650.0, 150)" />
+
+
+    <image
+       y="300"
+       x="102.914710217"
+       id="image72"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Machovka_Mobile_phone.png"
+       height="200"
+       width="94.1705795664"
+       transform="rotate( 201 , 150.0, 400)" />
+
+
+    <image
+       y="333.333333333"
+       x="300"
+       id="image17"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/whitechess.png"
+       height="133.333333333"
+       width="200"
+       transform="rotate( 287 , 400, 400.0)" />
+
+
+    <image
+       y="300"
+       x="581.121509876"
+       id="image6"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Machovka_Guitar.png"
+       height="200"
+       width="137.756980249"
+       transform="rotate( 109 , 650.0, 400)" />
+
+
+    <image
+       y="586.873538919"
+       x="50"
+       id="image14"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/lescinqailes_bicycle.png"
+       height="126.252922162"
+       width="200"
+       transform="rotate( 140 , 150, 650.0)" />
+
+
+    <image
+       y="603.893412372"
+       x="300"
+       id="image47"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Machovka_pikeperch.png"
+       height="92.213175256"
+       width="200"
+       transform="rotate( 94 , 400, 650.0)" />
+
+
+    <image
+       y="550"
+       x="569.715881799"
+       id="image59"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Machovka_parrot.png"
+       height="200"
+       width="160.568236401"
+       transform="rotate( 312 , 650.0, 650)" />
+
+   
+
+</svg>

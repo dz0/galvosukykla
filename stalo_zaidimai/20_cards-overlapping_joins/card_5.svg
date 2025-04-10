@@ -1,0 +1,87 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="800" height="800" version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+  <desc>Card
+  </desc>
+
+   
+    <image
+       y="50.0"
+       x="300"
+       id="image23"
+       xlink:href="file:///home/nijole/Downloads/spot-the-object-cards/png/COMPASS.png"
+       height="200.0"
+       width="200"
+       transform="rotate( 232 , 400, 150.0)" />
+
+
+    <image
+       y="61.8367314286"
+       x="550"
+       id="image13"
+       xlink:href="file:///home/nijole/Downloads/spot-the-object-cards/png/ryanlerch_sunglasses_outline.png"
+       height="176.326537143"
+       width="200"
+       transform="rotate( 87 , 650, 150.0)" />
+
+
+    <image
+       y="300"
+       x="78.6904782969"
+       id="image8"
+       xlink:href="file:///home/nijole/Downloads/spot-the-object-cards/png/jean_victor_balin_snowman.png"
+       height="200"
+       width="142.619043406"
+       transform="rotate( 12 , 150.0, 400)" />
+
+
+    <image
+       y="300"
+       x="588.253982507"
+       id="image3"
+       xlink:href="file:///home/nijole/Downloads/spot-the-object-cards/png/johnny_automatic_an_anchor.png"
+       height="200"
+       width="123.492034985"
+       transform="rotate( 185 , 650.0, 400)" />
+
+
+    <image
+       y="550"
+       x="63.2034601451"
+       id="image1"
+       xlink:href="file:///home/nijole/Downloads/spot-the-object-cards/png/clock.png"
+       height="200"
+       width="173.59307971"
+       transform="rotate( 116 , 150.0, 650)" />
+
+
+    <image
+       y="550"
+       x="331.121509876"
+       id="image6"
+       xlink:href="file:///home/nijole/Downloads/spot-the-object-cards/png/Machovka_Guitar.png"
+       height="200"
+       width="137.756980249"
+       transform="rotate( 115 , 400.0, 650)" />
+
+
+    <image
+       y="568.753241408"
+       x="550"
+       id="image20"
+       xlink:href="file:///home/nijole/Downloads/spot-the-object-cards/png/Chestnut.png"
+       height="162.493517185"
+       width="200"
+       transform="rotate( 201 , 650, 650.0)" />
+
+   
+   
+  <!-- Show outline of canvas using 'rect' element -->
+   <!-- <rect x=".01cm" y=".01cm" width="4.98cm" height="3.98cm"
+        fill="none" stroke="blue" stroke-width=".02cm" />-->
+
+</svg>

@@ -1,0 +1,107 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="800" height="800" version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+  <desc>Card
+  </desc>
+
+  <!-- Show outline of canvas using 'rect' element -->
+  <rect x="0" y="0" width="800" height="800"
+        fill="white" stroke="black" stroke-width="4pt" />
+
+   
+    <image
+       y="50"
+       x="75.2338554475"
+       id="image54"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/rg1024_soft_trees_2.png"
+       height="200"
+       width="149.532289105"
+       transform="rotate( 349 , 150.0, 150)" />
+
+
+    <image
+       y="50"
+       x="304.003833339"
+       id="image38"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/zucca_architetto_frances_01.png"
+       height="200"
+       width="191.992333322"
+       transform="rotate( 148 , 400.0, 150)" />
+
+
+    <image
+       y="68.1003929642"
+       x="550"
+       id="image46"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/StudioFibonacci_Cartoon_monkey.png"
+       height="163.799214072"
+       width="200"
+       transform="rotate( 106 , 650, 150.0)" />
+
+
+    <image
+       y="300"
+       x="69.8432270661"
+       id="image30"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Gerald_G_KU_taraxacum_officinale.png"
+       height="200"
+       width="160.313545868"
+       transform="rotate( 118 , 150.0, 400)" />
+
+
+    <image
+       y="300.0"
+       x="300"
+       id="image22"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/cards-applications-games.png"
+       height="200.0"
+       width="200"
+       transform="rotate( 187 , 400, 400.0)" />
+
+
+    <image
+       y="336.873538919"
+       x="550"
+       id="image14"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/lescinqailes_bicycle.png"
+       height="126.252922162"
+       width="200"
+       transform="rotate( 220 , 650, 400.0)" />
+
+
+    <image
+       y="550"
+       x="53.7151702786"
+       id="image70"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/jean_victor_balin_balloons.png"
+       height="200"
+       width="192.569659443"
+       transform="rotate( 338 , 150.0, 650)" />
+
+
+    <image
+       y="577.247022722"
+       x="300"
+       id="image62"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/treasure_map.png"
+       height="145.505954556"
+       width="200"
+       transform="rotate( 280 , 400, 650.0)" />
+
+
+    <image
+       y="550"
+       x="563.203460145"
+       id="image1"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/clock.png"
+       height="200"
+       width="173.59307971"
+       transform="rotate( 21 , 650.0, 650)" />
+
+   
+
+</svg>

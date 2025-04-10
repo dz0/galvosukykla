@@ -1,0 +1,107 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="800" height="800" version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+  <desc>Card
+  </desc>
+
+  <!-- Show outline of canvas using 'rect' element -->
+  <rect x="0" y="0" width="800" height="800"
+        fill="white" stroke="black" stroke-width="4pt" />
+
+   
+    <image
+       y="52.1803219945"
+       x="50"
+       id="image52"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/lemmling_Cartoon_owl.png"
+       height="195.639356011"
+       width="200"
+       transform="rotate( 101 , 150, 150.0)" />
+
+
+    <image
+       y="50"
+       x="327.668757976"
+       id="image45"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/shokunin_easter_egg_single.png"
+       height="200"
+       width="144.662484048"
+       transform="rotate( 232 , 400.0, 150)" />
+
+
+    <image
+       y="87.2162517034"
+       x="550"
+       id="image65"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/1291884712.png"
+       height="125.567496593"
+       width="200"
+       transform="rotate( 37 , 650, 150.0)" />
+
+
+    <image
+       y="300"
+       x="69.8432270661"
+       id="image30"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Gerald_G_KU_taraxacum_officinale.png"
+       height="200"
+       width="160.313545868"
+       transform="rotate( 359 , 150.0, 400)" />
+
+
+    <image
+       y="300"
+       x="310.989229148"
+       id="image58"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/bsantos_Cow.png"
+       height="200"
+       width="178.021541703"
+       transform="rotate( 165 , 400.0, 400)" />
+
+
+    <image
+       y="350.478289998"
+       x="550"
+       id="image15"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Chrisdesign_Beetle_(car).png"
+       height="99.0434200033"
+       width="200"
+       transform="rotate( 74 , 650, 400.0)" />
+
+
+    <image
+       y="555.722613608"
+       x="50"
+       id="image40"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/kattekrab_plane_tree_autumn_leaf.png"
+       height="188.554772784"
+       width="200"
+       transform="rotate( 248 , 150, 650.0)" />
+
+
+    <image
+       y="550"
+       x="300.383054615"
+       id="image19"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/christmas_bells.png"
+       height="200"
+       width="199.23389077"
+       transform="rotate( 146 , 400.0, 650)" />
+
+
+    <image
+       y="550"
+       x="578.690478297"
+       id="image8"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/jean_victor_balin_snowman.png"
+       height="200"
+       width="142.619043406"
+       transform="rotate( 331 , 650.0, 650)" />
+
+   
+
+</svg>

@@ -1,0 +1,107 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="800" height="800" version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+  <desc>Card
+  </desc>
+
+  <!-- Show outline of canvas using 'rect' element -->
+  <rect x="0" y="0" width="800" height="800"
+        fill="white" stroke="black" stroke-width="4pt" />
+
+   
+    <image
+       y="50"
+       x="69.7158817994"
+       id="image59"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Machovka_parrot.png"
+       height="200"
+       width="160.568236401"
+       transform="rotate( 73 , 150.0, 150)" />
+
+
+    <image
+       y="50"
+       x="328.571428571"
+       id="image12"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Bunny.png"
+       height="200"
+       width="142.857142857"
+       transform="rotate( 285 , 400.0, 150)" />
+
+
+    <image
+       y="50"
+       x="598.496638408"
+       id="image69"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/GreekSoldier.png"
+       height="200"
+       width="103.006723185"
+       transform="rotate( 191 , 650.0, 150)" />
+
+
+    <image
+       y="323.333772432"
+       x="50"
+       id="image55"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/jondkoon_pigeon.png"
+       height="153.332455135"
+       width="200"
+       transform="rotate( 60 , 150, 400.0)" />
+
+
+    <image
+       y="351.857769906"
+       x="300"
+       id="image18"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Gerald_G_Toothbrush_and_toothpaste.png"
+       height="96.2844601879"
+       width="200"
+       transform="rotate( 160 , 400, 400.0)" />
+
+
+    <image
+       y="300"
+       x="578.690478297"
+       id="image8"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/jean_victor_balin_snowman.png"
+       height="200"
+       width="142.619043406"
+       transform="rotate( 268 , 650.0, 400)" />
+
+
+    <image
+       y="550"
+       x="54.0038333389"
+       id="image38"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/zucca_architetto_frances_01.png"
+       height="200"
+       width="191.992333322"
+       transform="rotate( 40 , 150.0, 650)" />
+
+
+    <image
+       y="550"
+       x="327.287877025"
+       id="image32"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Machovka_quarterfoil.png"
+       height="200"
+       width="145.424245951"
+       transform="rotate( 229 , 400.0, 650)" />
+
+
+    <image
+       y="573.384396093"
+       x="550"
+       id="image41"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Machovka_Shoes.png"
+       height="153.231207814"
+       width="200"
+       transform="rotate( 212 , 650, 650.0)" />
+
+   
+
+</svg>

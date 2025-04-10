@@ -1,0 +1,107 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="800" height="800" version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+  <desc>Card
+  </desc>
+
+  <!-- Show outline of canvas using 'rect' element -->
+  <rect x="0" y="0" width="800" height="800"
+        fill="white" stroke="black" stroke-width="4pt" />
+
+   
+    <image
+       y="50"
+       x="78.6904782969"
+       id="image8"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/jean_victor_balin_snowman.png"
+       height="200"
+       width="142.619043406"
+       transform="rotate( 323 , 150.0, 150)" />
+
+
+    <image
+       y="50.0"
+       x="300"
+       id="image71"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/liftarn_Adventurer_Hat.png"
+       height="200.0"
+       width="200"
+       transform="rotate( 113 , 400, 150.0)" />
+
+
+    <image
+       y="50"
+       x="561.254233895"
+       id="image26"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/johnny_automatic_magnet.png"
+       height="200"
+       width="177.491532211"
+       transform="rotate( 336 , 650.0, 150)" />
+
+
+    <image
+       y="327.247022722"
+       x="50"
+       id="image62"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/treasure_map.png"
+       height="145.505954556"
+       width="200"
+       transform="rotate( 271 , 150, 400.0)" />
+
+
+    <image
+       y="325.0"
+       x="300"
+       id="image24"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/dog-pup1000.png"
+       height="150.0"
+       width="200"
+       transform="rotate( 115 , 400, 400.0)" />
+
+
+    <image
+       y="300"
+       x="562.5"
+       id="image35"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Peileppe_Photorealistic_Red_Apple.png"
+       height="200"
+       width="175.0"
+       transform="rotate( 122 , 650.0, 400)" />
+
+
+    <image
+       y="554.724044036"
+       x="50"
+       id="image53"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/maven_wood_cut_zebra.png"
+       height="190.551911929"
+       width="200"
+       transform="rotate( 153 , 150, 650.0)" />
+
+
+    <image
+       y="550"
+       x="329.292929041"
+       id="image9"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/PeterM_Flower.png"
+       height="200"
+       width="141.414141918"
+       transform="rotate( 20 , 400.0, 650)" />
+
+
+    <image
+       y="550"
+       x="608.726996678"
+       id="image44"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/portablejim_Green_snake_with_red_belly.png"
+       height="200"
+       width="82.5460066439"
+       transform="rotate( 156 , 650.0, 650)" />
+
+   
+
+</svg>

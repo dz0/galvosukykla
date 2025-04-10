@@ -1,0 +1,67 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="800" height="800" version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+  <desc>Card
+  </desc>
+
+   
+    <image
+       y="50"
+       x="79.292929041"
+       id="image9"
+       xlink:href="file:///home/nijole/Downloads/spot-the-object-cards/png/PeterM_Flower.png"
+       height="200"
+       width="141.414141918"
+       transform="rotate( 44 , 150.0, 150)" />
+
+
+    <image
+       y="50"
+       x="588.253982507"
+       id="image3"
+       xlink:href="file:///home/nijole/Downloads/spot-the-object-cards/png/johnny_automatic_an_anchor.png"
+       height="200"
+       width="123.492034985"
+       transform="rotate( 81 , 650.0, 150)" />
+
+
+    <image
+       y="326.171372758"
+       x="50"
+       id="image2"
+       xlink:href="file:///home/nijole/Downloads/spot-the-object-cards/png/rygle_Aussie_Earth_Colour_Outline.png"
+       height="147.657254483"
+       width="200"
+       transform="rotate( 182 , 150, 400.0)" />
+
+
+    <image
+       y="300"
+       x="312.964207003"
+       id="image5"
+       xlink:href="file:///home/nijole/Downloads/spot-the-object-cards/png/CAT2.png"
+       height="200"
+       width="174.071585994"
+       transform="rotate( 297 , 400.0, 400)" />
+
+
+    <image
+       y="550"
+       x="60.739769978"
+       id="image28"
+       xlink:href="file:///home/nijole/Downloads/spot-the-object-cards/png/Machovka_panda.png"
+       height="200"
+       width="178.520460044"
+       transform="rotate( 355 , 150.0, 650)" />
+
+   
+   
+  <!-- Show outline of canvas using 'rect' element -->
+   <!-- <rect x=".01cm" y=".01cm" width="4.98cm" height="3.98cm"
+        fill="none" stroke="blue" stroke-width=".02cm" />-->
+
+</svg>

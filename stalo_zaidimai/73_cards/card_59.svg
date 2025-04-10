@@ -1,0 +1,107 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="800" height="800" version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+  <desc>Card
+  </desc>
+
+  <!-- Show outline of canvas using 'rect' element -->
+  <rect x="0" y="0" width="800" height="800"
+        fill="white" stroke="black" stroke-width="4pt" />
+
+   
+    <image
+       y="81.0512387702"
+       x="50"
+       id="image31"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Jarno_Cessna.png"
+       height="137.89752246"
+       width="200"
+       transform="rotate( 311 , 150, 150.0)" />
+
+
+    <image
+       y="73.3843960931"
+       x="300"
+       id="image41"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Machovka_Shoes.png"
+       height="153.231207814"
+       width="200"
+       transform="rotate( 300 , 400, 150.0)" />
+
+
+    <image
+       y="75.0"
+       x="550"
+       id="image24"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/dog-pup1000.png"
+       height="150.0"
+       width="200"
+       transform="rotate( 295 , 650, 150.0)" />
+
+
+    <image
+       y="300"
+       x="60.9892291484"
+       id="image58"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/bsantos_Cow.png"
+       height="200"
+       width="178.021541703"
+       transform="rotate( 269 , 150.0, 400)" />
+
+
+    <image
+       y="300.0"
+       x="300"
+       id="image11"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/nicubunu_Soccer_ball.png"
+       height="200.0"
+       width="200"
+       transform="rotate( 350 , 400, 400.0)" />
+
+
+    <image
+       y="300"
+       x="550.000006571"
+       id="image37"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/sun-1287157794.png"
+       height="200"
+       width="199.999986857"
+       transform="rotate( 95 , 650.0, 400)" />
+
+
+    <image
+       y="599.732101529"
+       x="50"
+       id="image68"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/dragon02.png"
+       height="100.535796941"
+       width="200"
+       transform="rotate( 313 , 150, 650.0)" />
+
+
+    <image
+       y="550"
+       x="303.834221921"
+       id="image7"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Ghost_002.png"
+       height="200"
+       width="192.331556158"
+       transform="rotate( 62 , 400.0, 650)" />
+
+
+    <image
+       y="550"
+       x="575.233855447"
+       id="image54"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/rg1024_soft_trees_2.png"
+       height="200"
+       width="149.532289105"
+       transform="rotate( 357 , 650.0, 650)" />
+
+   
+
+</svg>

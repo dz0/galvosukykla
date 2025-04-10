@@ -1,0 +1,107 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="800" height="800" version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+  <desc>Card
+  </desc>
+
+  <!-- Show outline of canvas using 'rect' element -->
+  <rect x="0" y="0" width="800" height="800"
+        fill="white" stroke="black" stroke-width="4pt" />
+
+   
+    <image
+       y="50"
+       x="79.292929041"
+       id="image9"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/PeterM_Flower.png"
+       height="200"
+       width="141.414141918"
+       transform="rotate( 339 , 150.0, 150)" />
+
+
+    <image
+       y="68.1003929642"
+       x="300"
+       id="image46"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/StudioFibonacci_Cartoon_monkey.png"
+       height="163.799214072"
+       width="200"
+       transform="rotate( 123 , 400, 150.0)" />
+
+
+    <image
+       y="50"
+       x="620.463046631"
+       id="image64"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/1272138572.png"
+       height="200"
+       width="59.0739067381"
+       transform="rotate( 272 , 650.0, 150)" />
+
+
+    <image
+       y="300"
+       x="60.739769978"
+       id="image28"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Machovka_panda.png"
+       height="200"
+       width="178.520460044"
+       transform="rotate( 262 , 150.0, 400)" />
+
+
+    <image
+       y="308.582153611"
+       x="300"
+       id="image66"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/Anonymous_table_tennis.png"
+       height="182.835692777"
+       width="200"
+       transform="rotate( 356 , 400, 400.0)" />
+
+
+    <image
+       y="300"
+       x="588.253982507"
+       id="image3"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/johnny_automatic_an_anchor.png"
+       height="200"
+       width="123.492034985"
+       transform="rotate( 6 , 650.0, 400)" />
+
+
+    <image
+       y="550"
+       x="50.0000065714"
+       id="image37"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/sun-1287157794.png"
+       height="200"
+       width="199.999986857"
+       transform="rotate( 277 , 150.0, 650)" />
+
+
+    <image
+       y="550"
+       x="300.383054615"
+       id="image19"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/christmas_bells.png"
+       height="200"
+       width="199.23389077"
+       transform="rotate( 350 , 400.0, 650)" />
+
+
+    <image
+       y="573.333772432"
+       x="550"
+       id="image55"
+       xlink:href="file:///home/nijole/Downloads/spot-the-same-object-boardgame/png/jondkoon_pigeon.png"
+       height="153.332455135"
+       width="200"
+       transform="rotate( 197 , 650, 650.0)" />
+
+   
+
+</svg>
