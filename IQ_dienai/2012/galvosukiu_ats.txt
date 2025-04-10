@@ -1,0 +1,43 @@
+2   11
+3   2, x*2-2
+4   
+5   ..
+6   tetraedras
+7   18:05 ?
+8   ..
+9   ..
+10  3: per puse, bet vienoj pusej dar svarelis (=4.4 ir 4.6); 4.4 per puse(2.2);  2.2-2=2 
+
+11  ..
+12  5 min keturis, paskui 5min 2 pakeitus, 2 apvertus; paskui -likusius
+13  ..
+14  .. dalybos moduliu reikalai, nepamenu, gal ir nesutaps iš vis
+15  2*2*2 = 8
+16  gimtadienis gruodžio 31. kalba sausio 1 d.
+17  ..
+18  reik išskaidyt skaitmenis kažko iš 10, 11, 12
+19  15 skirtumų berods
+20  ... NŽN sunkus (galim skippint)
+
+21  reik skaičiuot skaitmenyse esansčius uždarus ovalus :)
+22  NŽN, ats variantai: 52, 49, 48, 51
+23  NŽN, ats variantai: 3998, 3228, 8223, 2338
+24  Start-B-C-Finish
+25  raudona (Skipinam nes spalvų neturim)
+26  NŽN
+27  NŽN
+28  koduojamo ankstesnės eilutės grupeles: [grupelės dydis][grupuotas skaitmuo]
+29  :)
+30  ..
+
+31  ..
+32  1, 5, 0 
+33  MN..
+34  ..
+35  berods: aritmetinės sekos kvadratų suma: 1+4+9 (nes 3-jų dydžio gali paimt vieną, 2jų dydžio - 2*2, 1no kv dydžio - 3*3)
+36  A ir D
+37  CDF
+38  viršūnes perkelt pagal laikrodžio rodyklę centro atžvilgiu po 60 laipsnių
+39  berods: 7
+40  a) periodinis dėsnis, b) ......, c) Petras yr man sūnus ;)
+41  antra neekvivalenti kitoms, nes visada grąžina False
