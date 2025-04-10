@@ -1,0 +1,300 @@
+
+0	
+0
+2013-03-31
+Suplanuotas
+Select 2013-03-04	
+2013-03-04
+dz0rdzas	2 lygis (išsprendžiama per 10 min)	atidumas	
+
+0	
+0
+2013-03-04
+Suplanuotas
+Select 2013-03-05	
+2013-03-05 - Juodraštis
+dz0rdzas	Uncategorized	—	
+
+0	
+0
+2013-03-03
+Redaguotas
+Select 2013-03-03	
+2013-03-03
+dz0rdzas	1 lygis (išsprendžiama per pora min)	variantų perrinkimas, šachmatai	
+
+0	
+0
+2013-03-03
+Suplanuotas
+Select 2013-03-02	
+2013-03-02
+dz0rdzas	2 lygis (išsprendžiama per 10 min)	variantų perrinkimas	
+
+0	
+0
+2013-03-02
+Suplanuotas
+Select 2013-03-01	
+2013-03-01
+dz0rdzas	2 lygis (išsprendžiama per 10 min)	variantų perrinkimas	
+
+0	
+0
+2013-03-01
+Suplanuotas
+Select 2013-02-28	
+2013-02-28
+dz0rdzas	2 lygis (išsprendžiama per 10 min)	variantų perrinkimas	
+
+0	
+0
+2013-02-28
+Suplanuotas
+Select 2013-02-27	
+2013-02-27
+dz0rdzas	2 lygis (išsprendžiama per 10 min)	atviras klausimas, situacija, vaizduotė	
+
+0	
+0
+2013-02-27
+Suplanuotas
+Select 2013-02-26	
+2013-02-26
+dz0rdzas	1 lygis (išsprendžiama per pora min)	originalumas paprastume	
+
+1	
+0
+prieš 14 val
+Paskelbtas
+Select 2013-02-25	
+2013-02-25
+dz0rdzas	1 lygis (išsprendžiama per pora min)	atidumas, logika	
+
+0	
+0
+2013-02-25
+Paskelbtas
+Select 2013-02-24	
+2013-02-24
+dz0rdzas	2 lygis (išsprendžiama per 10 min)	stereometrija, vaizduotė	
+
+1	
+0
+2013-02-24
+Paskelbtas
+Select 2013-02-23	
+2013-02-23
+dz0rdzas	2 lygis (išsprendžiama per 10 min)	originalumas paprastume	
+
+0	
+0
+2013-02-23
+Paskelbtas
+Select 2013-02-22	
+2013-02-22
+dz0rdzas	1 lygis (išsprendžiama per pora min)	geometrija, vaizduotė	
+
+1	
+0
+2013-02-22
+Paskelbtas
+Select 2013-02-21	
+2013-02-21
+dz0rdzas	2 lygis (išsprendžiama per 10 min)	logika	
+
+1	
+0
+2013-02-21
+Paskelbtas
+Select 2013-02-20	
+2013-02-20
+dz0rdzas	2 lygis (išsprendžiama per 10 min)	aritmetika	
+
+2	
+0
+2013-02-20
+Paskelbtas
+Select 2013-02-19	
+2013-02-19
+dz0rdzas	2 lygis (išsprendžiama per 10 min)	kombinatorika, pastebėk dėsningumą	
+
+1	
+0
+2013-02-19
+Paskelbtas
+Select 2013-02-18	
+2013-02-18 - Paveikslėlis
+dz0rdzas	1 lygis (išsprendžiama per pora min)	per lengva	
+
+1	
+0
+2013-02-18
+Paskelbtas
+Select 2013-02-17	
+2013-02-17
+
+
+
+Pasirinkti viską	
+Pavadinimas	Autorius	Kategorijos	Žymės	Statistika	
+	
+Data
+Pasirinkti viską	
+Pavadinimas	Autorius	Kategorijos	Žymės	Statistika	
+	
+Data
+Select 2013-01-23	
+2013-01-23
+dz0rdzas	1 lygis (išsprendžiama per pora min)	originalumas paprastume	
+
+2	
+0
+2013-01-23
+Paskelbtas
+Select 2013-01-22	
+2013-01-22
+dz0rdzas	2 lygis (išsprendžiama per 10 min)	atidumas, biologija	
+
+0	
+0
+2013-01-22
+Paskelbtas
+Select 2013-01-21	
+2013-01-21
+dz0rdzas	1 lygis (išsprendžiama per pora min)	aritmetika, pastebėk dėsningumą, seka	
+
+1	
+0
+2013-01-21
+Paskelbtas
+Select 2013-01-20	
+2013-01-20
+dz0rdzas	3 lygis (išsprendžiama per 10 – 30 min)	degtukai, vaizduotė	
+
+1	
+0
+2013-01-20
+Paskelbtas
+Select 2013-01-19	
+2013-01-19
+dz0rdzas	2 lygis (išsprendžiama per 10 min)	aritmetika, fizika, greitis	
+
+1	
+0
+2013-01-19
+Paskelbtas
+Select 2013-01-18	
+2013-01-18
+dz0rdzas	3 lygis (išsprendžiama per 10 – 30 min)	kombinatorika, logika, lošimų teorija, variantų perrinkimas	
+
+1	
+0
+2013-01-18
+Paskelbtas
+Select 2013-01-17	
+2013-01-17
+dz0rdzas	3 lygis (išsprendžiama per 10 – 30 min)	logika, variantų perrinkimas	
+
+1	
+0
+2013-01-17
+Paskelbtas
+Select 2013-01-16	
+2013-01-16
+dz0rdzas	1 lygis (išsprendžiama per pora min)	aritmetika, variantų perrinkimas	
+
+1	
+0
+2013-01-16
+Paskelbtas
+Select 2013-01-15	
+2013-01-15
+dz0rdzas	1 lygis (išsprendžiama per pora min)	originalumas paprastume	
+
+0	
+0
+2013-01-15
+Paskelbtas
+Select 2013-01-14	
+2013-01-14
+dz0rdzas	1 lygis (išsprendžiama per pora min)	atidumas	
+
+3	
+0
+2013-01-14
+Paskelbtas
+Select 2013-01-13	
+2013-01-13
+dz0rdzas	1 lygis (išsprendžiama per pora min)	lygčių sistema, pastebėk dėsningumą	
+
+1	
+0
+2013-01-13
+Paskelbtas
+Select 2013-01-11	
+2013-01-11 - Paveikslėlis
+dz0rdzas	1 lygis (išsprendžiama per pora min)	aritmetika, pastebėk dėsningumą	
+
+2	
+0
+2013-01-11
+Paskelbtas
+Select 2013-01-10	
+2013-01-10
+dz0rdzas	1 lygis (išsprendžiama per pora min)	angliškai, originalumas paprastume	
+
+1	
+0
+2013-01-10
+Paskelbtas
+Select 2013-01-09	
+2013-01-09
+dz0rdzas	2 lygis (išsprendžiama per 10 min)	atidumas	
+
+1	
+0
+2013-01-09
+Paskelbtas
+Select 2013-01-08	
+2013-01-08
+dz0rdzas	1 lygis (išsprendžiama per pora min)	originalumas paprastume, vaizduotė	
+
+1	
+0
+2013-01-08
+Paskelbtas
+Select 2013-01-07	
+2013-01-07
+dz0rdzas	2 lygis (išsprendžiama per 10 min)	virtuali realybė	
+
+0	
+0
+2013-01-07
+Paskelbtas
+Select Galvosūkių kalendorius 2013 sausiui!	
+Galvosūkių kalendorius 2013 sausiui!
+dz0rdzas	Uncategorized	Su Naujais!	
+
+8	
+0
+2012-12-31
+Paskelbtas
+Select 2012-12-27	
+2012-12-27
+dz0rdzas	2 lygis (išsprendžiama per 10 min)	originalumas paprastume	
+
+0	
+0
+2012-12-27
+Paskelbtas
+Select 2012-12-26	
+2012-12-26
+dz0rdzas	2 lygis (išsprendžiama per 10 min)	aritmetika, pastebėk dėsningumą	
+
+1	
+0
+2012-12-26
+Paskelbtas
+Select 2012-12-23	
+2012-12-23
